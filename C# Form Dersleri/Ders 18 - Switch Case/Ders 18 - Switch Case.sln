@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders 18 - Switch Case", "Ders 18 - Switch Case\Ders 18 - Switch Case.csproj", "{20AAE254-B7D7-4AEC-93E9-189AAC1E0A75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20AAE254-B7D7-4AEC-93E9-189AAC1E0A75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20AAE254-B7D7-4AEC-93E9-189AAC1E0A75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20AAE254-B7D7-4AEC-93E9-189AAC1E0A75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20AAE254-B7D7-4AEC-93E9-189AAC1E0A75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13A40652-6C03-4819-97F5-373D9595167D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\Reena\Desktop\Form\OOP ile N Katmanlı Mimaride Proje Geliştirme\LogicLayer\bin\Debug\LogicLayer.dll
+C:\Users\Reena\Desktop\Form\OOP ile N Katmanlı Mimaride Proje Geliştirme\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\Users\Reena\Desktop\Form\OOP ile N Katmanlı Mimaride Proje Geliştirme\LogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Reena\Desktop\Form\OOP ile N Katmanlı Mimaride Proje Geliştirme\LogicLayer\bin\Debug\EntityLayer.dll
+C:\Users\Reena\Desktop\Form\OOP ile N Katmanlı Mimaride Proje Geliştirme\LogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Reena\Desktop\Form\OOP ile N Katmanlı Mimaride Proje Geliştirme\LogicLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Reena\Desktop\Form\OOP ile N Katmanlı Mimaride Proje Geliştirme\LogicLayer\obj\Debug\LogicLayer.csprojAssemblyReference.cache
+C:\Users\Reena\Desktop\Form\OOP ile N Katmanlı Mimaride Proje Geliştirme\LogicLayer\obj\Debug\LogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\Form\OOP ile N Katmanlı Mimaride Proje Geliştirme\LogicLayer\obj\Debug\LogicLayer.csproj.CopyComplete
+C:\Users\Reena\Desktop\Form\OOP ile N Katmanlı Mimaride Proje Geliştirme\LogicLayer\obj\Debug\LogicLayer.dll
+C:\Users\Reena\Desktop\Form\OOP ile N Katmanlı Mimaride Proje Geliştirme\LogicLayer\obj\Debug\LogicLayer.pdb

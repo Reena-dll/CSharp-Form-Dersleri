@@ -1,0 +1,9 @@
+C:\Users\Reena\Desktop\Form\Ders 50 - Matematik Fonksiyonları\Ders 50 - Matematik Fonksiyonları\bin\Debug\Ders 50 - Matematik Fonksiyonları.exe.config
+C:\Users\Reena\Desktop\Form\Ders 50 - Matematik Fonksiyonları\Ders 50 - Matematik Fonksiyonları\bin\Debug\Ders 50 - Matematik Fonksiyonları.exe
+C:\Users\Reena\Desktop\Form\Ders 50 - Matematik Fonksiyonları\Ders 50 - Matematik Fonksiyonları\bin\Debug\Ders 50 - Matematik Fonksiyonları.pdb
+C:\Users\Reena\Desktop\Form\Ders 50 - Matematik Fonksiyonları\Ders 50 - Matematik Fonksiyonları\obj\Debug\Ders_50___Matematik_Fonksiyonları.Form1.resources
+C:\Users\Reena\Desktop\Form\Ders 50 - Matematik Fonksiyonları\Ders 50 - Matematik Fonksiyonları\obj\Debug\Ders_50___Matematik_Fonksiyonları.Properties.Resources.resources
+C:\Users\Reena\Desktop\Form\Ders 50 - Matematik Fonksiyonları\Ders 50 - Matematik Fonksiyonları\obj\Debug\Ders 50 - Matematik Fonksiyonları.csproj.GenerateResource.cache
+C:\Users\Reena\Desktop\Form\Ders 50 - Matematik Fonksiyonları\Ders 50 - Matematik Fonksiyonları\obj\Debug\Ders 50 - Matematik Fonksiyonları.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\Form\Ders 50 - Matematik Fonksiyonları\Ders 50 - Matematik Fonksiyonları\obj\Debug\Ders 50 - Matematik Fonksiyonları.exe
+C:\Users\Reena\Desktop\Form\Ders 50 - Matematik Fonksiyonları\Ders 50 - Matematik Fonksiyonları\obj\Debug\Ders 50 - Matematik Fonksiyonları.pdb

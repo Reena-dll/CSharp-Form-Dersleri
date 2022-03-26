@@ -1,0 +1,10 @@
+C:\Users\Reena\Desktop\Form\Ders 2 - Combobox Listbox\Ders 2 - Combobox Listbox\bin\Debug\Ders 2 - Combobox Listbox.exe.config
+C:\Users\Reena\Desktop\Form\Ders 2 - Combobox Listbox\Ders 2 - Combobox Listbox\bin\Debug\Ders 2 - Combobox Listbox.exe
+C:\Users\Reena\Desktop\Form\Ders 2 - Combobox Listbox\Ders 2 - Combobox Listbox\bin\Debug\Ders 2 - Combobox Listbox.pdb
+C:\Users\Reena\Desktop\Form\Ders 2 - Combobox Listbox\Ders 2 - Combobox Listbox\obj\Debug\Ders 2 - Combobox Listbox.csprojAssemblyReference.cache
+C:\Users\Reena\Desktop\Form\Ders 2 - Combobox Listbox\Ders 2 - Combobox Listbox\obj\Debug\Ders_2___Combobox_Listbox.Form1.resources
+C:\Users\Reena\Desktop\Form\Ders 2 - Combobox Listbox\Ders 2 - Combobox Listbox\obj\Debug\Ders_2___Combobox_Listbox.Properties.Resources.resources
+C:\Users\Reena\Desktop\Form\Ders 2 - Combobox Listbox\Ders 2 - Combobox Listbox\obj\Debug\Ders 2 - Combobox Listbox.csproj.GenerateResource.cache
+C:\Users\Reena\Desktop\Form\Ders 2 - Combobox Listbox\Ders 2 - Combobox Listbox\obj\Debug\Ders 2 - Combobox Listbox.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\Form\Ders 2 - Combobox Listbox\Ders 2 - Combobox Listbox\obj\Debug\Ders 2 - Combobox Listbox.exe
+C:\Users\Reena\Desktop\Form\Ders 2 - Combobox Listbox\Ders 2 - Combobox Listbox\obj\Debug\Ders 2 - Combobox Listbox.pdb

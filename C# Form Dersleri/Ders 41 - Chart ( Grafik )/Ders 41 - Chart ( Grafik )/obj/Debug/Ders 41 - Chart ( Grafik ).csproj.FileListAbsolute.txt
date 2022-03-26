@@ -1,0 +1,10 @@
+C:\Users\Reena\Desktop\Form\Ders 41 - Chart ( Grafik )\Ders 41 - Chart ( Grafik )\bin\Debug\Ders 41 - Chart ( Grafik ).exe.config
+C:\Users\Reena\Desktop\Form\Ders 41 - Chart ( Grafik )\Ders 41 - Chart ( Grafik )\bin\Debug\Ders 41 - Chart ( Grafik ).exe
+C:\Users\Reena\Desktop\Form\Ders 41 - Chart ( Grafik )\Ders 41 - Chart ( Grafik )\bin\Debug\Ders 41 - Chart ( Grafik ).pdb
+C:\Users\Reena\Desktop\Form\Ders 41 - Chart ( Grafik )\Ders 41 - Chart ( Grafik )\obj\Debug\Ders 41 - Chart ( Grafik ).csprojAssemblyReference.cache
+C:\Users\Reena\Desktop\Form\Ders 41 - Chart ( Grafik )\Ders 41 - Chart ( Grafik )\obj\Debug\Ders_41___Chart___Grafik__.Form1.resources
+C:\Users\Reena\Desktop\Form\Ders 41 - Chart ( Grafik )\Ders 41 - Chart ( Grafik )\obj\Debug\Ders_41___Chart___Grafik__.Properties.Resources.resources
+C:\Users\Reena\Desktop\Form\Ders 41 - Chart ( Grafik )\Ders 41 - Chart ( Grafik )\obj\Debug\Ders 41 - Chart ( Grafik ).csproj.GenerateResource.cache
+C:\Users\Reena\Desktop\Form\Ders 41 - Chart ( Grafik )\Ders 41 - Chart ( Grafik )\obj\Debug\Ders 41 - Chart ( Grafik ).csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\Form\Ders 41 - Chart ( Grafik )\Ders 41 - Chart ( Grafik )\obj\Debug\Ders 41 - Chart ( Grafik ).exe
+C:\Users\Reena\Desktop\Form\Ders 41 - Chart ( Grafik )\Ders 41 - Chart ( Grafik )\obj\Debug\Ders 41 - Chart ( Grafik ).pdb

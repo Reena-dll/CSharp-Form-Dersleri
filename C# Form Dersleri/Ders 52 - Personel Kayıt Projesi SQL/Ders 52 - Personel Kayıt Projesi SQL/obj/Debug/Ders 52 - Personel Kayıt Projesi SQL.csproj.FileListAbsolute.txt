@@ -1,0 +1,13 @@
+C:\Users\Reena\Desktop\Form\Ders 52 - Personel Kayıt Projesi SQL\Ders 52 - Personel Kayıt Projesi SQL\bin\Debug\Ders 52 - Personel Kayıt Projesi SQL.exe.config
+C:\Users\Reena\Desktop\Form\Ders 52 - Personel Kayıt Projesi SQL\Ders 52 - Personel Kayıt Projesi SQL\bin\Debug\Ders 52 - Personel Kayıt Projesi SQL.exe
+C:\Users\Reena\Desktop\Form\Ders 52 - Personel Kayıt Projesi SQL\Ders 52 - Personel Kayıt Projesi SQL\bin\Debug\Ders 52 - Personel Kayıt Projesi SQL.pdb
+C:\Users\Reena\Desktop\Form\Ders 52 - Personel Kayıt Projesi SQL\Ders 52 - Personel Kayıt Projesi SQL\obj\Debug\Ders 52 - Personel Kayıt Projesi SQL.csprojAssemblyReference.cache
+C:\Users\Reena\Desktop\Form\Ders 52 - Personel Kayıt Projesi SQL\Ders 52 - Personel Kayıt Projesi SQL\obj\Debug\Ders_52___Personel_Kayıt_Projesi_SQL.Properties.Resources.resources
+C:\Users\Reena\Desktop\Form\Ders 52 - Personel Kayıt Projesi SQL\Ders 52 - Personel Kayıt Projesi SQL\obj\Debug\Ders 52 - Personel Kayıt Projesi SQL.csproj.GenerateResource.cache
+C:\Users\Reena\Desktop\Form\Ders 52 - Personel Kayıt Projesi SQL\Ders 52 - Personel Kayıt Projesi SQL\obj\Debug\Ders 52 - Personel Kayıt Projesi SQL.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\Form\Ders 52 - Personel Kayıt Projesi SQL\Ders 52 - Personel Kayıt Projesi SQL\obj\Debug\Ders 52 - Personel Kayıt Projesi SQL.exe
+C:\Users\Reena\Desktop\Form\Ders 52 - Personel Kayıt Projesi SQL\Ders 52 - Personel Kayıt Projesi SQL\obj\Debug\Ders 52 - Personel Kayıt Projesi SQL.pdb
+C:\Users\Reena\Desktop\Form\Ders 52 - Personel Kayıt Projesi SQL\Ders 52 - Personel Kayıt Projesi SQL\obj\Debug\Ders_52___Personel_Kayıt_Projesi_SQL.Frmistatistik.resources
+C:\Users\Reena\Desktop\Form\Ders 52 - Personel Kayıt Projesi SQL\Ders 52 - Personel Kayıt Projesi SQL\obj\Debug\Ders_52___Personel_Kayıt_Projesi_SQL.FrmAnaForm1.resources
+C:\Users\Reena\Desktop\Form\Ders 52 - Personel Kayıt Projesi SQL\Ders 52 - Personel Kayıt Projesi SQL\obj\Debug\Ders_52___Personel_Kayıt_Projesi_SQL.FrmGrafikler.resources
+C:\Users\Reena\Desktop\Form\Ders 52 - Personel Kayıt Projesi SQL\Ders 52 - Personel Kayıt Projesi SQL\obj\Debug\Ders_52___Personel_Kayıt_Projesi_SQL.FrmGiris.resources

@@ -1,0 +1,9 @@
+C:\Users\Reena\Desktop\Form\Ders 17 - İf Else Örnek\Ders 17 - İf Else Örnek\bin\Debug\Ders 17 - İf Else Örnek.exe.config
+C:\Users\Reena\Desktop\Form\Ders 17 - İf Else Örnek\Ders 17 - İf Else Örnek\bin\Debug\Ders 17 - İf Else Örnek.exe
+C:\Users\Reena\Desktop\Form\Ders 17 - İf Else Örnek\Ders 17 - İf Else Örnek\bin\Debug\Ders 17 - İf Else Örnek.pdb
+C:\Users\Reena\Desktop\Form\Ders 17 - İf Else Örnek\Ders 17 - İf Else Örnek\obj\Debug\Ders_17___İf_Else_Örnek.Form1.resources
+C:\Users\Reena\Desktop\Form\Ders 17 - İf Else Örnek\Ders 17 - İf Else Örnek\obj\Debug\Ders_17___İf_Else_Örnek.Properties.Resources.resources
+C:\Users\Reena\Desktop\Form\Ders 17 - İf Else Örnek\Ders 17 - İf Else Örnek\obj\Debug\Ders 17 - İf Else Örnek.csproj.GenerateResource.cache
+C:\Users\Reena\Desktop\Form\Ders 17 - İf Else Örnek\Ders 17 - İf Else Örnek\obj\Debug\Ders 17 - İf Else Örnek.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\Form\Ders 17 - İf Else Örnek\Ders 17 - İf Else Örnek\obj\Debug\Ders 17 - İf Else Örnek.exe
+C:\Users\Reena\Desktop\Form\Ders 17 - İf Else Örnek\Ders 17 - İf Else Örnek\obj\Debug\Ders 17 - İf Else Örnek.pdb

@@ -1,0 +1,9 @@
+C:\Users\Reena\Desktop\Form\Ders 44 - Sayısal Loto Uygulaması\Ders 44 - Sayısal Loto Uygulaması\bin\Debug\Ders 44 - Sayısal Loto Uygulaması.exe.config
+C:\Users\Reena\Desktop\Form\Ders 44 - Sayısal Loto Uygulaması\Ders 44 - Sayısal Loto Uygulaması\bin\Debug\Ders 44 - Sayısal Loto Uygulaması.exe
+C:\Users\Reena\Desktop\Form\Ders 44 - Sayısal Loto Uygulaması\Ders 44 - Sayısal Loto Uygulaması\bin\Debug\Ders 44 - Sayısal Loto Uygulaması.pdb
+C:\Users\Reena\Desktop\Form\Ders 44 - Sayısal Loto Uygulaması\Ders 44 - Sayısal Loto Uygulaması\obj\Debug\Ders_44___Sayısal_Loto_Uygulaması.Form1.resources
+C:\Users\Reena\Desktop\Form\Ders 44 - Sayısal Loto Uygulaması\Ders 44 - Sayısal Loto Uygulaması\obj\Debug\Ders_44___Sayısal_Loto_Uygulaması.Properties.Resources.resources
+C:\Users\Reena\Desktop\Form\Ders 44 - Sayısal Loto Uygulaması\Ders 44 - Sayısal Loto Uygulaması\obj\Debug\Ders 44 - Sayısal Loto Uygulaması.csproj.GenerateResource.cache
+C:\Users\Reena\Desktop\Form\Ders 44 - Sayısal Loto Uygulaması\Ders 44 - Sayısal Loto Uygulaması\obj\Debug\Ders 44 - Sayısal Loto Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\Form\Ders 44 - Sayısal Loto Uygulaması\Ders 44 - Sayısal Loto Uygulaması\obj\Debug\Ders 44 - Sayısal Loto Uygulaması.exe
+C:\Users\Reena\Desktop\Form\Ders 44 - Sayısal Loto Uygulaması\Ders 44 - Sayısal Loto Uygulaması\obj\Debug\Ders 44 - Sayısal Loto Uygulaması.pdb

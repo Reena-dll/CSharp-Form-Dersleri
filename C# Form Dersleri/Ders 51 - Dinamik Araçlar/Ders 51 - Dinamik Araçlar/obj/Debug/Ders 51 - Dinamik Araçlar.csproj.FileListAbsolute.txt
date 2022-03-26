@@ -1,0 +1,9 @@
+C:\Users\Reena\Desktop\Form\Ders 51 - Dinamik Araçlar\Ders 51 - Dinamik Araçlar\bin\Debug\Ders 51 - Dinamik Araçlar.exe.config
+C:\Users\Reena\Desktop\Form\Ders 51 - Dinamik Araçlar\Ders 51 - Dinamik Araçlar\bin\Debug\Ders 51 - Dinamik Araçlar.exe
+C:\Users\Reena\Desktop\Form\Ders 51 - Dinamik Araçlar\Ders 51 - Dinamik Araçlar\bin\Debug\Ders 51 - Dinamik Araçlar.pdb
+C:\Users\Reena\Desktop\Form\Ders 51 - Dinamik Araçlar\Ders 51 - Dinamik Araçlar\obj\Debug\Ders_51___Dinamik_Araçlar.Form1.resources
+C:\Users\Reena\Desktop\Form\Ders 51 - Dinamik Araçlar\Ders 51 - Dinamik Araçlar\obj\Debug\Ders_51___Dinamik_Araçlar.Properties.Resources.resources
+C:\Users\Reena\Desktop\Form\Ders 51 - Dinamik Araçlar\Ders 51 - Dinamik Araçlar\obj\Debug\Ders 51 - Dinamik Araçlar.csproj.GenerateResource.cache
+C:\Users\Reena\Desktop\Form\Ders 51 - Dinamik Araçlar\Ders 51 - Dinamik Araçlar\obj\Debug\Ders 51 - Dinamik Araçlar.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\Form\Ders 51 - Dinamik Araçlar\Ders 51 - Dinamik Araçlar\obj\Debug\Ders 51 - Dinamik Araçlar.exe
+C:\Users\Reena\Desktop\Form\Ders 51 - Dinamik Araçlar\Ders 51 - Dinamik Araçlar\obj\Debug\Ders 51 - Dinamik Araçlar.pdb

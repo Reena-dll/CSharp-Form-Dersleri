@@ -1,0 +1,20 @@
+C:\Users\Reena\source\repos\Ders 55 - Access Veri Tabanı Kitaplık Proje\Ders 55 - Access Veri Tabanı Kitaplık Proje\bin\Debug\Ders 55 - Access Veri Tabanı Kitaplık Proje.exe.config
+C:\Users\Reena\source\repos\Ders 55 - Access Veri Tabanı Kitaplık Proje\Ders 55 - Access Veri Tabanı Kitaplık Proje\bin\Debug\Ders 55 - Access Veri Tabanı Kitaplık Proje.exe
+C:\Users\Reena\source\repos\Ders 55 - Access Veri Tabanı Kitaplık Proje\Ders 55 - Access Veri Tabanı Kitaplık Proje\bin\Debug\Ders 55 - Access Veri Tabanı Kitaplık Proje.pdb
+C:\Users\Reena\source\repos\Ders 55 - Access Veri Tabanı Kitaplık Proje\Ders 55 - Access Veri Tabanı Kitaplık Proje\obj\Debug\Ders 55 - Access Veri Tabanı Kitaplık Proje.csprojAssemblyReference.cache
+C:\Users\Reena\source\repos\Ders 55 - Access Veri Tabanı Kitaplık Proje\Ders 55 - Access Veri Tabanı Kitaplık Proje\obj\Debug\Ders_55___Access_Veri_Tabanı_Kitaplık_Proje.Form1.resources
+C:\Users\Reena\source\repos\Ders 55 - Access Veri Tabanı Kitaplık Proje\Ders 55 - Access Veri Tabanı Kitaplık Proje\obj\Debug\Ders_55___Access_Veri_Tabanı_Kitaplık_Proje.Properties.Resources.resources
+C:\Users\Reena\source\repos\Ders 55 - Access Veri Tabanı Kitaplık Proje\Ders 55 - Access Veri Tabanı Kitaplık Proje\obj\Debug\Ders 55 - Access Veri Tabanı Kitaplık Proje.csproj.GenerateResource.cache
+C:\Users\Reena\source\repos\Ders 55 - Access Veri Tabanı Kitaplık Proje\Ders 55 - Access Veri Tabanı Kitaplık Proje\obj\Debug\Ders 55 - Access Veri Tabanı Kitaplık Proje.csproj.CoreCompileInputs.cache
+C:\Users\Reena\source\repos\Ders 55 - Access Veri Tabanı Kitaplık Proje\Ders 55 - Access Veri Tabanı Kitaplık Proje\obj\Debug\Ders 55 - Access Veri Tabanı Kitaplık Proje.exe
+C:\Users\Reena\source\repos\Ders 55 - Access Veri Tabanı Kitaplık Proje\Ders 55 - Access Veri Tabanı Kitaplık Proje\obj\Debug\Ders 55 - Access Veri Tabanı Kitaplık Proje.pdb
+D:\DERS\Görsel Programlama\C#\C# Form Dersleri\Ders 55 - Access Veri Tabanı Kitaplık Proje\Ders 55 - Access Veri Tabanı Kitaplık Proje\bin\Debug\Ders 55 - Access Veri Tabanı Kitaplık Proje.exe.config
+D:\DERS\Görsel Programlama\C#\C# Form Dersleri\Ders 55 - Access Veri Tabanı Kitaplık Proje\Ders 55 - Access Veri Tabanı Kitaplık Proje\bin\Debug\Ders 55 - Access Veri Tabanı Kitaplık Proje.exe
+D:\DERS\Görsel Programlama\C#\C# Form Dersleri\Ders 55 - Access Veri Tabanı Kitaplık Proje\Ders 55 - Access Veri Tabanı Kitaplık Proje\bin\Debug\Ders 55 - Access Veri Tabanı Kitaplık Proje.pdb
+D:\DERS\Görsel Programlama\C#\C# Form Dersleri\Ders 55 - Access Veri Tabanı Kitaplık Proje\Ders 55 - Access Veri Tabanı Kitaplık Proje\obj\Debug\Ders 55 - Access Veri Tabanı Kitaplık Proje.csprojAssemblyReference.cache
+D:\DERS\Görsel Programlama\C#\C# Form Dersleri\Ders 55 - Access Veri Tabanı Kitaplık Proje\Ders 55 - Access Veri Tabanı Kitaplık Proje\obj\Debug\Ders_55___Access_Veri_Tabanı_Kitaplık_Proje.Form1.resources
+D:\DERS\Görsel Programlama\C#\C# Form Dersleri\Ders 55 - Access Veri Tabanı Kitaplık Proje\Ders 55 - Access Veri Tabanı Kitaplık Proje\obj\Debug\Ders_55___Access_Veri_Tabanı_Kitaplık_Proje.Properties.Resources.resources
+D:\DERS\Görsel Programlama\C#\C# Form Dersleri\Ders 55 - Access Veri Tabanı Kitaplık Proje\Ders 55 - Access Veri Tabanı Kitaplık Proje\obj\Debug\Ders 55 - Access Veri Tabanı Kitaplık Proje.csproj.GenerateResource.cache
+D:\DERS\Görsel Programlama\C#\C# Form Dersleri\Ders 55 - Access Veri Tabanı Kitaplık Proje\Ders 55 - Access Veri Tabanı Kitaplık Proje\obj\Debug\Ders 55 - Access Veri Tabanı Kitaplık Proje.csproj.CoreCompileInputs.cache
+D:\DERS\Görsel Programlama\C#\C# Form Dersleri\Ders 55 - Access Veri Tabanı Kitaplık Proje\Ders 55 - Access Veri Tabanı Kitaplık Proje\obj\Debug\Ders 55 - Access Veri Tabanı Kitaplık Proje.exe
+D:\DERS\Görsel Programlama\C#\C# Form Dersleri\Ders 55 - Access Veri Tabanı Kitaplık Proje\Ders 55 - Access Veri Tabanı Kitaplık Proje\obj\Debug\Ders 55 - Access Veri Tabanı Kitaplık Proje.pdb

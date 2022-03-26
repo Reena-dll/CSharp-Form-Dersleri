@@ -1,0 +1,9 @@
+C:\Users\Reena\Desktop\Form\Ders 45 - Captcha\Ders 45 - Captcha\bin\Debug\Ders 45 - Captcha.exe.config
+C:\Users\Reena\Desktop\Form\Ders 45 - Captcha\Ders 45 - Captcha\bin\Debug\Ders 45 - Captcha.exe
+C:\Users\Reena\Desktop\Form\Ders 45 - Captcha\Ders 45 - Captcha\bin\Debug\Ders 45 - Captcha.pdb
+C:\Users\Reena\Desktop\Form\Ders 45 - Captcha\Ders 45 - Captcha\obj\Debug\Ders_45___Captcha.Form1.resources
+C:\Users\Reena\Desktop\Form\Ders 45 - Captcha\Ders 45 - Captcha\obj\Debug\Ders_45___Captcha.Properties.Resources.resources
+C:\Users\Reena\Desktop\Form\Ders 45 - Captcha\Ders 45 - Captcha\obj\Debug\Ders 45 - Captcha.csproj.GenerateResource.cache
+C:\Users\Reena\Desktop\Form\Ders 45 - Captcha\Ders 45 - Captcha\obj\Debug\Ders 45 - Captcha.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\Form\Ders 45 - Captcha\Ders 45 - Captcha\obj\Debug\Ders 45 - Captcha.exe
+C:\Users\Reena\Desktop\Form\Ders 45 - Captcha\Ders 45 - Captcha\obj\Debug\Ders 45 - Captcha.pdb

@@ -1,0 +1,9 @@
+C:\Users\Reena\Desktop\Form\Ders 3 - Mastedtextbox - Pıcturebox\Ders 3 - Mastedtextbox - Pıcturebox\bin\Debug\Ders 3 - Mastedtextbox - Pıcturebox.exe.config
+C:\Users\Reena\Desktop\Form\Ders 3 - Mastedtextbox - Pıcturebox\Ders 3 - Mastedtextbox - Pıcturebox\bin\Debug\Ders 3 - Mastedtextbox - Pıcturebox.exe
+C:\Users\Reena\Desktop\Form\Ders 3 - Mastedtextbox - Pıcturebox\Ders 3 - Mastedtextbox - Pıcturebox\bin\Debug\Ders 3 - Mastedtextbox - Pıcturebox.pdb
+C:\Users\Reena\Desktop\Form\Ders 3 - Mastedtextbox - Pıcturebox\Ders 3 - Mastedtextbox - Pıcturebox\obj\Debug\Ders_3___Mastedtextbox___Pıcturebox.Form1.resources
+C:\Users\Reena\Desktop\Form\Ders 3 - Mastedtextbox - Pıcturebox\Ders 3 - Mastedtextbox - Pıcturebox\obj\Debug\Ders_3___Mastedtextbox___Pıcturebox.Properties.Resources.resources
+C:\Users\Reena\Desktop\Form\Ders 3 - Mastedtextbox - Pıcturebox\Ders 3 - Mastedtextbox - Pıcturebox\obj\Debug\Ders 3 - Mastedtextbox - Pıcturebox.csproj.GenerateResource.cache
+C:\Users\Reena\Desktop\Form\Ders 3 - Mastedtextbox - Pıcturebox\Ders 3 - Mastedtextbox - Pıcturebox\obj\Debug\Ders 3 - Mastedtextbox - Pıcturebox.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\Form\Ders 3 - Mastedtextbox - Pıcturebox\Ders 3 - Mastedtextbox - Pıcturebox\obj\Debug\Ders 3 - Mastedtextbox - Pıcturebox.exe
+C:\Users\Reena\Desktop\Form\Ders 3 - Mastedtextbox - Pıcturebox\Ders 3 - Mastedtextbox - Pıcturebox\obj\Debug\Ders 3 - Mastedtextbox - Pıcturebox.pdb

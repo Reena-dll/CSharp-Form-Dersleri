@@ -1,0 +1,9 @@
+C:\Users\Reena\Desktop\Form\Ders 18 - Switch Case Ödev\Ders 18 - Switch Case Ödev\bin\Debug\Ders 18 - Switch Case Ödev.exe.config
+C:\Users\Reena\Desktop\Form\Ders 18 - Switch Case Ödev\Ders 18 - Switch Case Ödev\bin\Debug\Ders 18 - Switch Case Ödev.exe
+C:\Users\Reena\Desktop\Form\Ders 18 - Switch Case Ödev\Ders 18 - Switch Case Ödev\bin\Debug\Ders 18 - Switch Case Ödev.pdb
+C:\Users\Reena\Desktop\Form\Ders 18 - Switch Case Ödev\Ders 18 - Switch Case Ödev\obj\Debug\Ders_18___Switch_Case_Ödev.Form1.resources
+C:\Users\Reena\Desktop\Form\Ders 18 - Switch Case Ödev\Ders 18 - Switch Case Ödev\obj\Debug\Ders_18___Switch_Case_Ödev.Properties.Resources.resources
+C:\Users\Reena\Desktop\Form\Ders 18 - Switch Case Ödev\Ders 18 - Switch Case Ödev\obj\Debug\Ders 18 - Switch Case Ödev.csproj.GenerateResource.cache
+C:\Users\Reena\Desktop\Form\Ders 18 - Switch Case Ödev\Ders 18 - Switch Case Ödev\obj\Debug\Ders 18 - Switch Case Ödev.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\Form\Ders 18 - Switch Case Ödev\Ders 18 - Switch Case Ödev\obj\Debug\Ders 18 - Switch Case Ödev.exe
+C:\Users\Reena\Desktop\Form\Ders 18 - Switch Case Ödev\Ders 18 - Switch Case Ödev\obj\Debug\Ders 18 - Switch Case Ödev.pdb

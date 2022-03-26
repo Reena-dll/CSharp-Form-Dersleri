@@ -1,0 +1,9 @@
+C:\Users\Reena\Desktop\Form\Ders 42 - Context Menu Strip\Ders 42 - Context Menu Strip\bin\Debug\Ders 42 - Context Menu Strip.exe.config
+C:\Users\Reena\Desktop\Form\Ders 42 - Context Menu Strip\Ders 42 - Context Menu Strip\bin\Debug\Ders 42 - Context Menu Strip.exe
+C:\Users\Reena\Desktop\Form\Ders 42 - Context Menu Strip\Ders 42 - Context Menu Strip\bin\Debug\Ders 42 - Context Menu Strip.pdb
+C:\Users\Reena\Desktop\Form\Ders 42 - Context Menu Strip\Ders 42 - Context Menu Strip\obj\Debug\Ders_42___Context_Menu_Strip.Form1.resources
+C:\Users\Reena\Desktop\Form\Ders 42 - Context Menu Strip\Ders 42 - Context Menu Strip\obj\Debug\Ders_42___Context_Menu_Strip.Properties.Resources.resources
+C:\Users\Reena\Desktop\Form\Ders 42 - Context Menu Strip\Ders 42 - Context Menu Strip\obj\Debug\Ders 42 - Context Menu Strip.csproj.GenerateResource.cache
+C:\Users\Reena\Desktop\Form\Ders 42 - Context Menu Strip\Ders 42 - Context Menu Strip\obj\Debug\Ders 42 - Context Menu Strip.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\Form\Ders 42 - Context Menu Strip\Ders 42 - Context Menu Strip\obj\Debug\Ders 42 - Context Menu Strip.exe
+C:\Users\Reena\Desktop\Form\Ders 42 - Context Menu Strip\Ders 42 - Context Menu Strip\obj\Debug\Ders 42 - Context Menu Strip.pdb

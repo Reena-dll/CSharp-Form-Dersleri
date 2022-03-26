@@ -1,0 +1,6 @@
+C:\Users\Reena\Desktop\Form\Ders 37 - Sınıf içerisinde geriye değer döndüren\Ders 37 - Sınıf içerisinde geriye değer döndüren\obj\Debug\Ders 37 - Sınıf içerisinde geriye değer döndüren.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\Form\Ders 37 - Sınıf içerisinde geriye değer döndüren\Ders 37 - Sınıf içerisinde geriye değer döndüren\bin\Debug\Ders 37 - Sınıf içerisinde geriye değer döndüren.exe.config
+C:\Users\Reena\Desktop\Form\Ders 37 - Sınıf içerisinde geriye değer döndüren\Ders 37 - Sınıf içerisinde geriye değer döndüren\bin\Debug\Ders 37 - Sınıf içerisinde geriye değer döndüren.exe
+C:\Users\Reena\Desktop\Form\Ders 37 - Sınıf içerisinde geriye değer döndüren\Ders 37 - Sınıf içerisinde geriye değer döndüren\bin\Debug\Ders 37 - Sınıf içerisinde geriye değer döndüren.pdb
+C:\Users\Reena\Desktop\Form\Ders 37 - Sınıf içerisinde geriye değer döndüren\Ders 37 - Sınıf içerisinde geriye değer döndüren\obj\Debug\Ders 37 - Sınıf içerisinde geriye değer döndüren.exe
+C:\Users\Reena\Desktop\Form\Ders 37 - Sınıf içerisinde geriye değer döndüren\Ders 37 - Sınıf içerisinde geriye değer döndüren\obj\Debug\Ders 37 - Sınıf içerisinde geriye değer döndüren.pdb

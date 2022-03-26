@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders 54 - Hastene Yönetim ve Randevu Sistemi", "Ders 54 - Hastene Yönetim ve Randevu Sistemi\Ders 54 - Hastene Yönetim ve Randevu Sistemi.csproj", "{4EE69F1E-8419-4E4A-9CFB-2D6FA9632460}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "HastaneSetup", "HastaneSetup\HastaneSetup.vdproj", "{B69D099A-ECFD-4C3D-A1B0-55580DD0994D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EE69F1E-8419-4E4A-9CFB-2D6FA9632460}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EE69F1E-8419-4E4A-9CFB-2D6FA9632460}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EE69F1E-8419-4E4A-9CFB-2D6FA9632460}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EE69F1E-8419-4E4A-9CFB-2D6FA9632460}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B69D099A-ECFD-4C3D-A1B0-55580DD0994D}.Debug|Any CPU.ActiveCfg = Debug
+		{B69D099A-ECFD-4C3D-A1B0-55580DD0994D}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {525FECD3-B1E6-4C50-81DE-4493335CAECE}
+	EndGlobalSection
+EndGlobal

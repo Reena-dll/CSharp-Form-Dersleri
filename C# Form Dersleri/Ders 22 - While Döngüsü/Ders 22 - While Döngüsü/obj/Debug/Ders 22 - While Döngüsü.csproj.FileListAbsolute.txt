@@ -1,0 +1,9 @@
+C:\Users\Reena\Desktop\Form\Ders 22 - While Döngüsü\Ders 22 - While Döngüsü\bin\Debug\Ders 22 - While Döngüsü.exe.config
+C:\Users\Reena\Desktop\Form\Ders 22 - While Döngüsü\Ders 22 - While Döngüsü\bin\Debug\Ders 22 - While Döngüsü.exe
+C:\Users\Reena\Desktop\Form\Ders 22 - While Döngüsü\Ders 22 - While Döngüsü\bin\Debug\Ders 22 - While Döngüsü.pdb
+C:\Users\Reena\Desktop\Form\Ders 22 - While Döngüsü\Ders 22 - While Döngüsü\obj\Debug\Ders_22___While_Döngüsü.Form1.resources
+C:\Users\Reena\Desktop\Form\Ders 22 - While Döngüsü\Ders 22 - While Döngüsü\obj\Debug\Ders_22___While_Döngüsü.Properties.Resources.resources
+C:\Users\Reena\Desktop\Form\Ders 22 - While Döngüsü\Ders 22 - While Döngüsü\obj\Debug\Ders 22 - While Döngüsü.csproj.GenerateResource.cache
+C:\Users\Reena\Desktop\Form\Ders 22 - While Döngüsü\Ders 22 - While Döngüsü\obj\Debug\Ders 22 - While Döngüsü.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\Form\Ders 22 - While Döngüsü\Ders 22 - While Döngüsü\obj\Debug\Ders 22 - While Döngüsü.exe
+C:\Users\Reena\Desktop\Form\Ders 22 - While Döngüsü\Ders 22 - While Döngüsü\obj\Debug\Ders 22 - While Döngüsü.pdb

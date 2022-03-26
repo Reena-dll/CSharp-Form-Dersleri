@@ -1,0 +1,10 @@
+C:\Users\Reena\source\repos\Ders 39 - Menu Strip\Ders 39 - Menu Strip\bin\Debug\Ders 39 - Menu Strip.exe.config
+C:\Users\Reena\source\repos\Ders 39 - Menu Strip\Ders 39 - Menu Strip\bin\Debug\Ders 39 - Menu Strip.exe
+C:\Users\Reena\source\repos\Ders 39 - Menu Strip\Ders 39 - Menu Strip\bin\Debug\Ders 39 - Menu Strip.pdb
+C:\Users\Reena\source\repos\Ders 39 - Menu Strip\Ders 39 - Menu Strip\obj\Debug\Ders 39 - Menu Strip.csprojAssemblyReference.cache
+C:\Users\Reena\source\repos\Ders 39 - Menu Strip\Ders 39 - Menu Strip\obj\Debug\Ders_39___Menu_Strip.Form1.resources
+C:\Users\Reena\source\repos\Ders 39 - Menu Strip\Ders 39 - Menu Strip\obj\Debug\Ders_39___Menu_Strip.Properties.Resources.resources
+C:\Users\Reena\source\repos\Ders 39 - Menu Strip\Ders 39 - Menu Strip\obj\Debug\Ders 39 - Menu Strip.csproj.GenerateResource.cache
+C:\Users\Reena\source\repos\Ders 39 - Menu Strip\Ders 39 - Menu Strip\obj\Debug\Ders 39 - Menu Strip.csproj.CoreCompileInputs.cache
+C:\Users\Reena\source\repos\Ders 39 - Menu Strip\Ders 39 - Menu Strip\obj\Debug\Ders 39 - Menu Strip.exe
+C:\Users\Reena\source\repos\Ders 39 - Menu Strip\Ders 39 - Menu Strip\obj\Debug\Ders 39 - Menu Strip.pdb

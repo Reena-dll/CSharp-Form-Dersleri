@@ -1,0 +1,9 @@
+C:\Users\Reena\Desktop\Form\Ders 13 - Char Değişkeni\Ders 13 - Char Değişkeni\bin\Debug\Ders 13 - Char Değişkeni.exe.config
+C:\Users\Reena\Desktop\Form\Ders 13 - Char Değişkeni\Ders 13 - Char Değişkeni\bin\Debug\Ders 13 - Char Değişkeni.exe
+C:\Users\Reena\Desktop\Form\Ders 13 - Char Değişkeni\Ders 13 - Char Değişkeni\bin\Debug\Ders 13 - Char Değişkeni.pdb
+C:\Users\Reena\Desktop\Form\Ders 13 - Char Değişkeni\Ders 13 - Char Değişkeni\obj\Debug\Ders_13___Char_Değişkeni.Form1.resources
+C:\Users\Reena\Desktop\Form\Ders 13 - Char Değişkeni\Ders 13 - Char Değişkeni\obj\Debug\Ders_13___Char_Değişkeni.Properties.Resources.resources
+C:\Users\Reena\Desktop\Form\Ders 13 - Char Değişkeni\Ders 13 - Char Değişkeni\obj\Debug\Ders 13 - Char Değişkeni.csproj.GenerateResource.cache
+C:\Users\Reena\Desktop\Form\Ders 13 - Char Değişkeni\Ders 13 - Char Değişkeni\obj\Debug\Ders 13 - Char Değişkeni.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\Form\Ders 13 - Char Değişkeni\Ders 13 - Char Değişkeni\obj\Debug\Ders 13 - Char Değişkeni.exe
+C:\Users\Reena\Desktop\Form\Ders 13 - Char Değişkeni\Ders 13 - Char Değişkeni\obj\Debug\Ders 13 - Char Değişkeni.pdb

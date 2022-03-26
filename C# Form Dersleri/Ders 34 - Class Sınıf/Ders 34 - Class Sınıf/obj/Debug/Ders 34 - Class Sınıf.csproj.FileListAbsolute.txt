@@ -1,0 +1,10 @@
+C:\Users\Reena\Desktop\Form\Ders 34 - Class Sınıf\Ders 34 - Class Sınıf\bin\Debug\Ders 34 - Class Sınıf.exe.config
+C:\Users\Reena\Desktop\Form\Ders 34 - Class Sınıf\Ders 34 - Class Sınıf\bin\Debug\Ders 34 - Class Sınıf.exe
+C:\Users\Reena\Desktop\Form\Ders 34 - Class Sınıf\Ders 34 - Class Sınıf\bin\Debug\Ders 34 - Class Sınıf.pdb
+C:\Users\Reena\Desktop\Form\Ders 34 - Class Sınıf\Ders 34 - Class Sınıf\obj\Debug\Ders_34___Class_Sınıf.Form1.resources
+C:\Users\Reena\Desktop\Form\Ders 34 - Class Sınıf\Ders 34 - Class Sınıf\obj\Debug\Ders_34___Class_Sınıf.Properties.Resources.resources
+C:\Users\Reena\Desktop\Form\Ders 34 - Class Sınıf\Ders 34 - Class Sınıf\obj\Debug\Ders 34 - Class Sınıf.csproj.GenerateResource.cache
+C:\Users\Reena\Desktop\Form\Ders 34 - Class Sınıf\Ders 34 - Class Sınıf\obj\Debug\Ders 34 - Class Sınıf.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\Form\Ders 34 - Class Sınıf\Ders 34 - Class Sınıf\obj\Debug\Ders 34 - Class Sınıf.exe
+C:\Users\Reena\Desktop\Form\Ders 34 - Class Sınıf\Ders 34 - Class Sınıf\obj\Debug\Ders 34 - Class Sınıf.pdb
+C:\Users\Reena\Desktop\Form\Ders 34 - Class Sınıf\Ders 34 - Class Sınıf\obj\Debug\Ders_34___Class_Sınıf.Form2.resources

@@ -1,0 +1,9 @@
+C:\Users\Reena\Desktop\Form\Ders 9 - Int-2\Ders 9 - Int-2\obj\Debug\Ders_9___Int_2.Form1.resources
+C:\Users\Reena\Desktop\Form\Ders 9 - Int-2\Ders 9 - Int-2\obj\Debug\Ders_9___Int_2.Properties.Resources.resources
+C:\Users\Reena\Desktop\Form\Ders 9 - Int-2\Ders 9 - Int-2\obj\Debug\Ders 9 - Int-2.csproj.GenerateResource.cache
+C:\Users\Reena\Desktop\Form\Ders 9 - Int-2\Ders 9 - Int-2\obj\Debug\Ders 9 - Int-2.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\Form\Ders 9 - Int-2\Ders 9 - Int-2\bin\Debug\Ders 9 - Int-2.exe.config
+C:\Users\Reena\Desktop\Form\Ders 9 - Int-2\Ders 9 - Int-2\bin\Debug\Ders 9 - Int-2.exe
+C:\Users\Reena\Desktop\Form\Ders 9 - Int-2\Ders 9 - Int-2\bin\Debug\Ders 9 - Int-2.pdb
+C:\Users\Reena\Desktop\Form\Ders 9 - Int-2\Ders 9 - Int-2\obj\Debug\Ders 9 - Int-2.exe
+C:\Users\Reena\Desktop\Form\Ders 9 - Int-2\Ders 9 - Int-2\obj\Debug\Ders 9 - Int-2.pdb

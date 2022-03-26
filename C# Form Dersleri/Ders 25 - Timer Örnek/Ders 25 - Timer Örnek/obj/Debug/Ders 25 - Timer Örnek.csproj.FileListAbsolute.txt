@@ -1,0 +1,9 @@
+C:\Users\Reena\Desktop\Form\Ders 25 - Timer Örnek\Ders 25 - Timer Örnek\bin\Debug\Ders 25 - Timer Örnek.exe.config
+C:\Users\Reena\Desktop\Form\Ders 25 - Timer Örnek\Ders 25 - Timer Örnek\bin\Debug\Ders 25 - Timer Örnek.exe
+C:\Users\Reena\Desktop\Form\Ders 25 - Timer Örnek\Ders 25 - Timer Örnek\bin\Debug\Ders 25 - Timer Örnek.pdb
+C:\Users\Reena\Desktop\Form\Ders 25 - Timer Örnek\Ders 25 - Timer Örnek\obj\Debug\Ders_25___Timer_Örnek.Form1.resources
+C:\Users\Reena\Desktop\Form\Ders 25 - Timer Örnek\Ders 25 - Timer Örnek\obj\Debug\Ders_25___Timer_Örnek.Properties.Resources.resources
+C:\Users\Reena\Desktop\Form\Ders 25 - Timer Örnek\Ders 25 - Timer Örnek\obj\Debug\Ders 25 - Timer Örnek.csproj.GenerateResource.cache
+C:\Users\Reena\Desktop\Form\Ders 25 - Timer Örnek\Ders 25 - Timer Örnek\obj\Debug\Ders 25 - Timer Örnek.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\Form\Ders 25 - Timer Örnek\Ders 25 - Timer Örnek\obj\Debug\Ders 25 - Timer Örnek.exe
+C:\Users\Reena\Desktop\Form\Ders 25 - Timer Örnek\Ders 25 - Timer Örnek\obj\Debug\Ders 25 - Timer Örnek.pdb

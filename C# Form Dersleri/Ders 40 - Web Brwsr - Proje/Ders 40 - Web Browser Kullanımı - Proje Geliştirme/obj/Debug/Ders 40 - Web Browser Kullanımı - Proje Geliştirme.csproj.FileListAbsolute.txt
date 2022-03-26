@@ -1,0 +1,10 @@
+C:\Users\Reena\Desktop\Form\Ders 40 - Web Browser Kullanımı - Proje Geliştirme\Ders 40 - Web Browser Kullanımı - Proje Geliştirme\bin\Debug\Ders 40 - Web Browser Kullanımı - Proje Geliştirme.exe.config
+C:\Users\Reena\Desktop\Form\Ders 40 - Web Browser Kullanımı - Proje Geliştirme\Ders 40 - Web Browser Kullanımı - Proje Geliştirme\bin\Debug\Ders 40 - Web Browser Kullanımı - Proje Geliştirme.exe
+C:\Users\Reena\Desktop\Form\Ders 40 - Web Browser Kullanımı - Proje Geliştirme\Ders 40 - Web Browser Kullanımı - Proje Geliştirme\bin\Debug\Ders 40 - Web Browser Kullanımı - Proje Geliştirme.pdb
+C:\Users\Reena\Desktop\Form\Ders 40 - Web Browser Kullanımı - Proje Geliştirme\Ders 40 - Web Browser Kullanımı - Proje Geliştirme\obj\Debug\Ders 40 - Web Browser Kullanımı - Proje Geliştirme.csprojAssemblyReference.cache
+C:\Users\Reena\Desktop\Form\Ders 40 - Web Browser Kullanımı - Proje Geliştirme\Ders 40 - Web Browser Kullanımı - Proje Geliştirme\obj\Debug\Ders_40___Web_Browser_Kullanımı___Proje_Geliştirme.Form1.resources
+C:\Users\Reena\Desktop\Form\Ders 40 - Web Browser Kullanımı - Proje Geliştirme\Ders 40 - Web Browser Kullanımı - Proje Geliştirme\obj\Debug\Ders_40___Web_Browser_Kullanımı___Proje_Geliştirme.Properties.Resources.resources
+C:\Users\Reena\Desktop\Form\Ders 40 - Web Browser Kullanımı - Proje Geliştirme\Ders 40 - Web Browser Kullanımı - Proje Geliştirme\obj\Debug\Ders 40 - Web Browser Kullanımı - Proje Geliştirme.csproj.GenerateResource.cache
+C:\Users\Reena\Desktop\Form\Ders 40 - Web Browser Kullanımı - Proje Geliştirme\Ders 40 - Web Browser Kullanımı - Proje Geliştirme\obj\Debug\Ders 40 - Web Browser Kullanımı - Proje Geliştirme.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\Form\Ders 40 - Web Browser Kullanımı - Proje Geliştirme\Ders 40 - Web Browser Kullanımı - Proje Geliştirme\obj\Debug\Ders 40 - Web Browser Kullanımı - Proje Geliştirme.exe
+C:\Users\Reena\Desktop\Form\Ders 40 - Web Browser Kullanımı - Proje Geliştirme\Ders 40 - Web Browser Kullanımı - Proje Geliştirme\obj\Debug\Ders 40 - Web Browser Kullanımı - Proje Geliştirme.pdb

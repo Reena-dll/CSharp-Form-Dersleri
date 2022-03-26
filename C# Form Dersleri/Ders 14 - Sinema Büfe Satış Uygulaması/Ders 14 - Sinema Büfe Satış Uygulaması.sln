@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders 14 - Sinema Büfe Satış Uygulaması", "Ders 14 - Sinema Büfe Satış Uygulaması\Ders 14 - Sinema Büfe Satış Uygulaması.csproj", "{10CF55D0-D909-4B19-A06D-82B07DEAA399}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10CF55D0-D909-4B19-A06D-82B07DEAA399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10CF55D0-D909-4B19-A06D-82B07DEAA399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10CF55D0-D909-4B19-A06D-82B07DEAA399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10CF55D0-D909-4B19-A06D-82B07DEAA399}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C38DAE9-CDEF-4A27-BDF1-1B4B4D5DE998}
+	EndGlobalSection
+EndGlobal

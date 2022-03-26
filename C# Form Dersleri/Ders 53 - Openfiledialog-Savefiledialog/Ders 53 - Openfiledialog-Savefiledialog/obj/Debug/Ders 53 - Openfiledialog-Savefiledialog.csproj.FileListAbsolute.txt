@@ -1,0 +1,10 @@
+C:\Users\Reena\source\repos\Ders 53 - Openfiledialog-Savefiledialog\Ders 53 - Openfiledialog-Savefiledialog\bin\Debug\Ders 53 - Openfiledialog-Savefiledialog.exe.config
+C:\Users\Reena\source\repos\Ders 53 - Openfiledialog-Savefiledialog\Ders 53 - Openfiledialog-Savefiledialog\bin\Debug\Ders 53 - Openfiledialog-Savefiledialog.exe
+C:\Users\Reena\source\repos\Ders 53 - Openfiledialog-Savefiledialog\Ders 53 - Openfiledialog-Savefiledialog\bin\Debug\Ders 53 - Openfiledialog-Savefiledialog.pdb
+C:\Users\Reena\source\repos\Ders 53 - Openfiledialog-Savefiledialog\Ders 53 - Openfiledialog-Savefiledialog\obj\Debug\Ders 53 - Openfiledialog-Savefiledialog.csprojAssemblyReference.cache
+C:\Users\Reena\source\repos\Ders 53 - Openfiledialog-Savefiledialog\Ders 53 - Openfiledialog-Savefiledialog\obj\Debug\Ders_53___Openfiledialog_Savefiledialog.Form1.resources
+C:\Users\Reena\source\repos\Ders 53 - Openfiledialog-Savefiledialog\Ders 53 - Openfiledialog-Savefiledialog\obj\Debug\Ders_53___Openfiledialog_Savefiledialog.Properties.Resources.resources
+C:\Users\Reena\source\repos\Ders 53 - Openfiledialog-Savefiledialog\Ders 53 - Openfiledialog-Savefiledialog\obj\Debug\Ders 53 - Openfiledialog-Savefiledialog.csproj.GenerateResource.cache
+C:\Users\Reena\source\repos\Ders 53 - Openfiledialog-Savefiledialog\Ders 53 - Openfiledialog-Savefiledialog\obj\Debug\Ders 53 - Openfiledialog-Savefiledialog.csproj.CoreCompileInputs.cache
+C:\Users\Reena\source\repos\Ders 53 - Openfiledialog-Savefiledialog\Ders 53 - Openfiledialog-Savefiledialog\obj\Debug\Ders 53 - Openfiledialog-Savefiledialog.exe
+C:\Users\Reena\source\repos\Ders 53 - Openfiledialog-Savefiledialog\Ders 53 - Openfiledialog-Savefiledialog\obj\Debug\Ders 53 - Openfiledialog-Savefiledialog.pdb

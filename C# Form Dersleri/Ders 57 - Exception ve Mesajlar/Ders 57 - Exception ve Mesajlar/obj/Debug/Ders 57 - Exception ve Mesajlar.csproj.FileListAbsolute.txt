@@ -1,0 +1,9 @@
+C:\Users\Reena\Desktop\Form\Ders 57 - Exception ve Mesajlar\Ders 57 - Exception ve Mesajlar\bin\Debug\Ders 57 - Exception ve Mesajlar.exe.config
+C:\Users\Reena\Desktop\Form\Ders 57 - Exception ve Mesajlar\Ders 57 - Exception ve Mesajlar\bin\Debug\Ders 57 - Exception ve Mesajlar.exe
+C:\Users\Reena\Desktop\Form\Ders 57 - Exception ve Mesajlar\Ders 57 - Exception ve Mesajlar\bin\Debug\Ders 57 - Exception ve Mesajlar.pdb
+C:\Users\Reena\Desktop\Form\Ders 57 - Exception ve Mesajlar\Ders 57 - Exception ve Mesajlar\obj\Debug\Ders_57___Exception_ve_Mesajlar.Form1.resources
+C:\Users\Reena\Desktop\Form\Ders 57 - Exception ve Mesajlar\Ders 57 - Exception ve Mesajlar\obj\Debug\Ders_57___Exception_ve_Mesajlar.Properties.Resources.resources
+C:\Users\Reena\Desktop\Form\Ders 57 - Exception ve Mesajlar\Ders 57 - Exception ve Mesajlar\obj\Debug\Ders 57 - Exception ve Mesajlar.csproj.GenerateResource.cache
+C:\Users\Reena\Desktop\Form\Ders 57 - Exception ve Mesajlar\Ders 57 - Exception ve Mesajlar\obj\Debug\Ders 57 - Exception ve Mesajlar.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\Form\Ders 57 - Exception ve Mesajlar\Ders 57 - Exception ve Mesajlar\obj\Debug\Ders 57 - Exception ve Mesajlar.exe
+C:\Users\Reena\Desktop\Form\Ders 57 - Exception ve Mesajlar\Ders 57 - Exception ve Mesajlar\obj\Debug\Ders 57 - Exception ve Mesajlar.pdb

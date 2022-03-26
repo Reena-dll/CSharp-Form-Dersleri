@@ -1,0 +1,38 @@
+C:\Users\Reena\Desktop\Form\Ders 60 - Entity Framework\Ders 60 - Entity Framework\bin\Debug\Ders 60 - Entity Framework.exe.config
+C:\Users\Reena\Desktop\Form\Ders 60 - Entity Framework\Ders 60 - Entity Framework\bin\Debug\Ders 60 - Entity Framework.exe
+C:\Users\Reena\Desktop\Form\Ders 60 - Entity Framework\Ders 60 - Entity Framework\bin\Debug\Ders 60 - Entity Framework.pdb
+C:\Users\Reena\Desktop\Form\Ders 60 - Entity Framework\Ders 60 - Entity Framework\bin\Debug\EntityFramework.dll
+C:\Users\Reena\Desktop\Form\Ders 60 - Entity Framework\Ders 60 - Entity Framework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Reena\Desktop\Form\Ders 60 - Entity Framework\Ders 60 - Entity Framework\bin\Debug\EntityFramework.xml
+C:\Users\Reena\Desktop\Form\Ders 60 - Entity Framework\Ders 60 - Entity Framework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Reena\Desktop\Form\Ders 60 - Entity Framework\Ders 60 - Entity Framework\obj\Debug\Ders 60 - Entity Framework.csprojAssemblyReference.cache
+C:\Users\Reena\Desktop\Form\Ders 60 - Entity Framework\Ders 60 - Entity Framework\obj\Debug\Ders_60___Entity_Framework.Form1.resources
+C:\Users\Reena\Desktop\Form\Ders 60 - Entity Framework\Ders 60 - Entity Framework\obj\Debug\Ders_60___Entity_Framework.Properties.Resources.resources
+C:\Users\Reena\Desktop\Form\Ders 60 - Entity Framework\Ders 60 - Entity Framework\obj\Debug\Ders 60 - Entity Framework.csproj.GenerateResource.cache
+C:\Users\Reena\Desktop\Form\Ders 60 - Entity Framework\Ders 60 - Entity Framework\obj\Debug\Ders 60 - Entity Framework.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\Form\Ders 60 - Entity Framework\Ders 60 - Entity Framework\obj\Debug\Ders 60 - Entity Framework.csproj.CopyComplete
+C:\Users\Reena\Desktop\Form\Ders 60 - Entity Framework\Ders 60 - Entity Framework\obj\Debug\Ders 60 - Entity Framework.exe
+C:\Users\Reena\Desktop\Form\Ders 60 - Entity Framework\Ders 60 - Entity Framework\obj\Debug\Ders 60 - Entity Framework.pdb
+C:\Users\Reena\Desktop\Form\Ders 60 - Entity Framework\Ders 60 - Entity Framework\obj\Debug\Ders_60___Entity_Framework.FrmAnaForm.resources
+C:\Users\Reena\Desktop\Form\Ders 60 - Entity Framework\Ders 60 - Entity Framework\obj\Debug\Ders_60___Entity_Framework.FrmUrun.resources
+C:\Users\Reena\Desktop\Form\Ders 60 - Entity Framework\Ders 60 - Entity Framework\obj\Debug\Ders_60___Entity_Framework.Frmİstatistik.resources
+C:\Users\Reena\Desktop\Form\Ders 60 - Entity Framework\Ders 60 - Entity Framework\obj\Debug\Ders_60___Entity_Framework.FrmGiris.resources
+D:\DERS\Görsel Programlama\C#\C# Form Dersleri\Ders 60 - Entity Framework\Ders 60 - Entity Framework\bin\Debug\Ders 60 - Entity Framework.exe.config
+D:\DERS\Görsel Programlama\C#\C# Form Dersleri\Ders 60 - Entity Framework\Ders 60 - Entity Framework\bin\Debug\Ders 60 - Entity Framework.exe
+D:\DERS\Görsel Programlama\C#\C# Form Dersleri\Ders 60 - Entity Framework\Ders 60 - Entity Framework\bin\Debug\Ders 60 - Entity Framework.pdb
+D:\DERS\Görsel Programlama\C#\C# Form Dersleri\Ders 60 - Entity Framework\Ders 60 - Entity Framework\bin\Debug\EntityFramework.dll
+D:\DERS\Görsel Programlama\C#\C# Form Dersleri\Ders 60 - Entity Framework\Ders 60 - Entity Framework\bin\Debug\EntityFramework.SqlServer.dll
+D:\DERS\Görsel Programlama\C#\C# Form Dersleri\Ders 60 - Entity Framework\Ders 60 - Entity Framework\bin\Debug\EntityFramework.xml
+D:\DERS\Görsel Programlama\C#\C# Form Dersleri\Ders 60 - Entity Framework\Ders 60 - Entity Framework\bin\Debug\EntityFramework.SqlServer.xml
+D:\DERS\Görsel Programlama\C#\C# Form Dersleri\Ders 60 - Entity Framework\Ders 60 - Entity Framework\obj\Debug\Ders 60 - Entity Framework.csprojAssemblyReference.cache
+D:\DERS\Görsel Programlama\C#\C# Form Dersleri\Ders 60 - Entity Framework\Ders 60 - Entity Framework\obj\Debug\Ders_60___Entity_Framework.Form1.resources
+D:\DERS\Görsel Programlama\C#\C# Form Dersleri\Ders 60 - Entity Framework\Ders 60 - Entity Framework\obj\Debug\Ders_60___Entity_Framework.FrmAnaForm.resources
+D:\DERS\Görsel Programlama\C#\C# Form Dersleri\Ders 60 - Entity Framework\Ders 60 - Entity Framework\obj\Debug\Ders_60___Entity_Framework.FrmGiris.resources
+D:\DERS\Görsel Programlama\C#\C# Form Dersleri\Ders 60 - Entity Framework\Ders 60 - Entity Framework\obj\Debug\Ders_60___Entity_Framework.FrmUrun.resources
+D:\DERS\Görsel Programlama\C#\C# Form Dersleri\Ders 60 - Entity Framework\Ders 60 - Entity Framework\obj\Debug\Ders_60___Entity_Framework.Frmİstatistik.resources
+D:\DERS\Görsel Programlama\C#\C# Form Dersleri\Ders 60 - Entity Framework\Ders 60 - Entity Framework\obj\Debug\Ders_60___Entity_Framework.Properties.Resources.resources
+D:\DERS\Görsel Programlama\C#\C# Form Dersleri\Ders 60 - Entity Framework\Ders 60 - Entity Framework\obj\Debug\Ders 60 - Entity Framework.csproj.GenerateResource.cache
+D:\DERS\Görsel Programlama\C#\C# Form Dersleri\Ders 60 - Entity Framework\Ders 60 - Entity Framework\obj\Debug\Ders 60 - Entity Framework.csproj.CoreCompileInputs.cache
+D:\DERS\Görsel Programlama\C#\C# Form Dersleri\Ders 60 - Entity Framework\Ders 60 - Entity Framework\obj\Debug\Ders 60 - Entity Framework.csproj.CopyComplete
+D:\DERS\Görsel Programlama\C#\C# Form Dersleri\Ders 60 - Entity Framework\Ders 60 - Entity Framework\obj\Debug\Ders 60 - Entity Framework.exe
+D:\DERS\Görsel Programlama\C#\C# Form Dersleri\Ders 60 - Entity Framework\Ders 60 - Entity Framework\obj\Debug\Ders 60 - Entity Framework.pdb

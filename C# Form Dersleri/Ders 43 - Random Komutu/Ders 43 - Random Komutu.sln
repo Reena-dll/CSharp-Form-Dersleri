@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders 43 - Random Komutu", "Ders 43 - Random Komutu\Ders 43 - Random Komutu.csproj", "{F1EFE949-4BA9-4DF9-8D46-469561AF6739}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1EFE949-4BA9-4DF9-8D46-469561AF6739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1EFE949-4BA9-4DF9-8D46-469561AF6739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1EFE949-4BA9-4DF9-8D46-469561AF6739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1EFE949-4BA9-4DF9-8D46-469561AF6739}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5B7F4A7-C8B3-4E97-BF63-E1AE1F9B28BC}
+	EndGlobalSection
+EndGlobal

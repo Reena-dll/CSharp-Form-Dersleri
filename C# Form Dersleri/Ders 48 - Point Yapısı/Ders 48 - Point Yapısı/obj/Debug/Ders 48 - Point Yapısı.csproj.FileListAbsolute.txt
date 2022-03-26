@@ -1,0 +1,9 @@
+C:\Users\Reena\Desktop\Form\Ders 48 - Point Yapısı\Ders 48 - Point Yapısı\bin\Debug\Ders 48 - Point Yapısı.exe.config
+C:\Users\Reena\Desktop\Form\Ders 48 - Point Yapısı\Ders 48 - Point Yapısı\bin\Debug\Ders 48 - Point Yapısı.exe
+C:\Users\Reena\Desktop\Form\Ders 48 - Point Yapısı\Ders 48 - Point Yapısı\bin\Debug\Ders 48 - Point Yapısı.pdb
+C:\Users\Reena\Desktop\Form\Ders 48 - Point Yapısı\Ders 48 - Point Yapısı\obj\Debug\Ders_48___Point_Yapısı.Form1.resources
+C:\Users\Reena\Desktop\Form\Ders 48 - Point Yapısı\Ders 48 - Point Yapısı\obj\Debug\Ders_48___Point_Yapısı.Properties.Resources.resources
+C:\Users\Reena\Desktop\Form\Ders 48 - Point Yapısı\Ders 48 - Point Yapısı\obj\Debug\Ders 48 - Point Yapısı.csproj.GenerateResource.cache
+C:\Users\Reena\Desktop\Form\Ders 48 - Point Yapısı\Ders 48 - Point Yapısı\obj\Debug\Ders 48 - Point Yapısı.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\Form\Ders 48 - Point Yapısı\Ders 48 - Point Yapısı\obj\Debug\Ders 48 - Point Yapısı.exe
+C:\Users\Reena\Desktop\Form\Ders 48 - Point Yapısı\Ders 48 - Point Yapısı\obj\Debug\Ders 48 - Point Yapısı.pdb

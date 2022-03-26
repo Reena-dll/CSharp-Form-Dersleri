@@ -1,0 +1,10 @@
+C:\Users\Reena\Desktop\Form\Ders 28 - Diziler\Ders 28 - Diziler\bin\Debug\Ders 28 - Diziler.exe.config
+C:\Users\Reena\Desktop\Form\Ders 28 - Diziler\Ders 28 - Diziler\bin\Debug\Ders 28 - Diziler.exe
+C:\Users\Reena\Desktop\Form\Ders 28 - Diziler\Ders 28 - Diziler\bin\Debug\Ders 28 - Diziler.pdb
+C:\Users\Reena\Desktop\Form\Ders 28 - Diziler\Ders 28 - Diziler\obj\Debug\Ders 28 - Diziler.csprojAssemblyReference.cache
+C:\Users\Reena\Desktop\Form\Ders 28 - Diziler\Ders 28 - Diziler\obj\Debug\Ders_28___Diziler.Form1.resources
+C:\Users\Reena\Desktop\Form\Ders 28 - Diziler\Ders 28 - Diziler\obj\Debug\Ders_28___Diziler.Properties.Resources.resources
+C:\Users\Reena\Desktop\Form\Ders 28 - Diziler\Ders 28 - Diziler\obj\Debug\Ders 28 - Diziler.csproj.GenerateResource.cache
+C:\Users\Reena\Desktop\Form\Ders 28 - Diziler\Ders 28 - Diziler\obj\Debug\Ders 28 - Diziler.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\Form\Ders 28 - Diziler\Ders 28 - Diziler\obj\Debug\Ders 28 - Diziler.exe
+C:\Users\Reena\Desktop\Form\Ders 28 - Diziler\Ders 28 - Diziler\obj\Debug\Ders 28 - Diziler.pdb

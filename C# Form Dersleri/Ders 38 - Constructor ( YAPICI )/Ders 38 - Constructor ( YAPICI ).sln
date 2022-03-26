@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders 38 - Constructor ( YAPICI )", "Ders 38 - Constructor ( YAPICI )\Ders 38 - Constructor ( YAPICI ).csproj", "{948CE803-D1D1-4AEA-968F-3A72ACB5BB40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{948CE803-D1D1-4AEA-968F-3A72ACB5BB40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{948CE803-D1D1-4AEA-968F-3A72ACB5BB40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{948CE803-D1D1-4AEA-968F-3A72ACB5BB40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{948CE803-D1D1-4AEA-968F-3A72ACB5BB40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20F3227D-750F-4E8E-9784-96464E7F2DB1}
+	EndGlobalSection
+EndGlobal

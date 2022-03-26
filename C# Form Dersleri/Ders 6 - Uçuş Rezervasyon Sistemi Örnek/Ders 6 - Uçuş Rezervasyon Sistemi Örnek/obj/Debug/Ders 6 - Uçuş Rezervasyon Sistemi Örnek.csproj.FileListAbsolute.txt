@@ -1,0 +1,9 @@
+C:\Users\Reena\Desktop\Form\Ders 6 - Uçuş Rezervasyon Sistemi Örnek\Ders 6 - Uçuş Rezervasyon Sistemi Örnek\bin\Debug\Ders 6 - Uçuş Rezervasyon Sistemi Örnek.exe.config
+C:\Users\Reena\Desktop\Form\Ders 6 - Uçuş Rezervasyon Sistemi Örnek\Ders 6 - Uçuş Rezervasyon Sistemi Örnek\bin\Debug\Ders 6 - Uçuş Rezervasyon Sistemi Örnek.exe
+C:\Users\Reena\Desktop\Form\Ders 6 - Uçuş Rezervasyon Sistemi Örnek\Ders 6 - Uçuş Rezervasyon Sistemi Örnek\bin\Debug\Ders 6 - Uçuş Rezervasyon Sistemi Örnek.pdb
+C:\Users\Reena\Desktop\Form\Ders 6 - Uçuş Rezervasyon Sistemi Örnek\Ders 6 - Uçuş Rezervasyon Sistemi Örnek\obj\Debug\Ders_6___Uçuş_Rezervasyon_Sistemi_Örnek.Form1.resources
+C:\Users\Reena\Desktop\Form\Ders 6 - Uçuş Rezervasyon Sistemi Örnek\Ders 6 - Uçuş Rezervasyon Sistemi Örnek\obj\Debug\Ders_6___Uçuş_Rezervasyon_Sistemi_Örnek.Properties.Resources.resources
+C:\Users\Reena\Desktop\Form\Ders 6 - Uçuş Rezervasyon Sistemi Örnek\Ders 6 - Uçuş Rezervasyon Sistemi Örnek\obj\Debug\Ders 6 - Uçuş Rezervasyon Sistemi Örnek.csproj.GenerateResource.cache
+C:\Users\Reena\Desktop\Form\Ders 6 - Uçuş Rezervasyon Sistemi Örnek\Ders 6 - Uçuş Rezervasyon Sistemi Örnek\obj\Debug\Ders 6 - Uçuş Rezervasyon Sistemi Örnek.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\Form\Ders 6 - Uçuş Rezervasyon Sistemi Örnek\Ders 6 - Uçuş Rezervasyon Sistemi Örnek\obj\Debug\Ders 6 - Uçuş Rezervasyon Sistemi Örnek.exe
+C:\Users\Reena\Desktop\Form\Ders 6 - Uçuş Rezervasyon Sistemi Örnek\Ders 6 - Uçuş Rezervasyon Sistemi Örnek\obj\Debug\Ders 6 - Uçuş Rezervasyon Sistemi Örnek.pdb

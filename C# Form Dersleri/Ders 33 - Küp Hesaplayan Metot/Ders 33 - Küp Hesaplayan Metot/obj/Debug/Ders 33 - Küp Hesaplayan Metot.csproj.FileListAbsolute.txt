@@ -1,0 +1,10 @@
+C:\Users\Reena\Desktop\Form\Ders 33 - Küp Hesaplayan Metot\Ders 33 - Küp Hesaplayan Metot\bin\Debug\Ders 33 - Küp Hesaplayan Metot.exe.config
+C:\Users\Reena\Desktop\Form\Ders 33 - Küp Hesaplayan Metot\Ders 33 - Küp Hesaplayan Metot\bin\Debug\Ders 33 - Küp Hesaplayan Metot.exe
+C:\Users\Reena\Desktop\Form\Ders 33 - Küp Hesaplayan Metot\Ders 33 - Küp Hesaplayan Metot\bin\Debug\Ders 33 - Küp Hesaplayan Metot.pdb
+C:\Users\Reena\Desktop\Form\Ders 33 - Küp Hesaplayan Metot\Ders 33 - Küp Hesaplayan Metot\obj\Debug\Ders 33 - Küp Hesaplayan Metot.csprojAssemblyReference.cache
+C:\Users\Reena\Desktop\Form\Ders 33 - Küp Hesaplayan Metot\Ders 33 - Küp Hesaplayan Metot\obj\Debug\Ders_33___Küp_Hesaplayan_Metot.Form1.resources
+C:\Users\Reena\Desktop\Form\Ders 33 - Küp Hesaplayan Metot\Ders 33 - Küp Hesaplayan Metot\obj\Debug\Ders_33___Küp_Hesaplayan_Metot.Properties.Resources.resources
+C:\Users\Reena\Desktop\Form\Ders 33 - Küp Hesaplayan Metot\Ders 33 - Küp Hesaplayan Metot\obj\Debug\Ders 33 - Küp Hesaplayan Metot.csproj.GenerateResource.cache
+C:\Users\Reena\Desktop\Form\Ders 33 - Küp Hesaplayan Metot\Ders 33 - Küp Hesaplayan Metot\obj\Debug\Ders 33 - Küp Hesaplayan Metot.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\Form\Ders 33 - Küp Hesaplayan Metot\Ders 33 - Küp Hesaplayan Metot\obj\Debug\Ders 33 - Küp Hesaplayan Metot.exe
+C:\Users\Reena\Desktop\Form\Ders 33 - Küp Hesaplayan Metot\Ders 33 - Küp Hesaplayan Metot\obj\Debug\Ders 33 - Küp Hesaplayan Metot.pdb

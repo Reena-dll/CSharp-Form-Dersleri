@@ -1,0 +1,9 @@
+C:\Users\Reena\Desktop\Form\Ders 21 - For Döngüsü 2\Ders 21 - For Döngüsü 2\bin\Debug\Ders 21 - For Döngüsü 2.exe.config
+C:\Users\Reena\Desktop\Form\Ders 21 - For Döngüsü 2\Ders 21 - For Döngüsü 2\bin\Debug\Ders 21 - For Döngüsü 2.exe
+C:\Users\Reena\Desktop\Form\Ders 21 - For Döngüsü 2\Ders 21 - For Döngüsü 2\bin\Debug\Ders 21 - For Döngüsü 2.pdb
+C:\Users\Reena\Desktop\Form\Ders 21 - For Döngüsü 2\Ders 21 - For Döngüsü 2\obj\Debug\Ders_21___For_Döngüsü_2.Form1.resources
+C:\Users\Reena\Desktop\Form\Ders 21 - For Döngüsü 2\Ders 21 - For Döngüsü 2\obj\Debug\Ders_21___For_Döngüsü_2.Properties.Resources.resources
+C:\Users\Reena\Desktop\Form\Ders 21 - For Döngüsü 2\Ders 21 - For Döngüsü 2\obj\Debug\Ders 21 - For Döngüsü 2.csproj.GenerateResource.cache
+C:\Users\Reena\Desktop\Form\Ders 21 - For Döngüsü 2\Ders 21 - For Döngüsü 2\obj\Debug\Ders 21 - For Döngüsü 2.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\Form\Ders 21 - For Döngüsü 2\Ders 21 - For Döngüsü 2\obj\Debug\Ders 21 - For Döngüsü 2.exe
+C:\Users\Reena\Desktop\Form\Ders 21 - For Döngüsü 2\Ders 21 - For Döngüsü 2\obj\Debug\Ders 21 - For Döngüsü 2.pdb

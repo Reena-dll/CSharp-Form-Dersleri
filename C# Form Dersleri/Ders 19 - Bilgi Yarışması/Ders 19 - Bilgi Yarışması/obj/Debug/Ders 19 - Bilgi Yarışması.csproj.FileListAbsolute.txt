@@ -1,0 +1,10 @@
+C:\Users\Reena\Desktop\Form\Ders 19 - Bilgi Yarışması\Ders 19 - Bilgi Yarışması\bin\Debug\Ders 19 - Bilgi Yarışması.exe.config
+C:\Users\Reena\Desktop\Form\Ders 19 - Bilgi Yarışması\Ders 19 - Bilgi Yarışması\bin\Debug\Ders 19 - Bilgi Yarışması.exe
+C:\Users\Reena\Desktop\Form\Ders 19 - Bilgi Yarışması\Ders 19 - Bilgi Yarışması\bin\Debug\Ders 19 - Bilgi Yarışması.pdb
+C:\Users\Reena\Desktop\Form\Ders 19 - Bilgi Yarışması\Ders 19 - Bilgi Yarışması\obj\Debug\Ders 19 - Bilgi Yarışması.csprojAssemblyReference.cache
+C:\Users\Reena\Desktop\Form\Ders 19 - Bilgi Yarışması\Ders 19 - Bilgi Yarışması\obj\Debug\Ders_19___Bilgi_Yarışması.Form1.resources
+C:\Users\Reena\Desktop\Form\Ders 19 - Bilgi Yarışması\Ders 19 - Bilgi Yarışması\obj\Debug\Ders_19___Bilgi_Yarışması.Properties.Resources.resources
+C:\Users\Reena\Desktop\Form\Ders 19 - Bilgi Yarışması\Ders 19 - Bilgi Yarışması\obj\Debug\Ders 19 - Bilgi Yarışması.csproj.GenerateResource.cache
+C:\Users\Reena\Desktop\Form\Ders 19 - Bilgi Yarışması\Ders 19 - Bilgi Yarışması\obj\Debug\Ders 19 - Bilgi Yarışması.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\Form\Ders 19 - Bilgi Yarışması\Ders 19 - Bilgi Yarışması\obj\Debug\Ders 19 - Bilgi Yarışması.exe
+C:\Users\Reena\Desktop\Form\Ders 19 - Bilgi Yarışması\Ders 19 - Bilgi Yarışması\obj\Debug\Ders 19 - Bilgi Yarışması.pdb

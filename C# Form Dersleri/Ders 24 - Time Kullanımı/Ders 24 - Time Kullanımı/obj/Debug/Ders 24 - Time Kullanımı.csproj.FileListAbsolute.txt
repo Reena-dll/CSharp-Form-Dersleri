@@ -1,0 +1,9 @@
+C:\Users\Reena\Desktop\Form\Ders 24 - Time Kullanımı\Ders 24 - Time Kullanımı\bin\Debug\Ders 24 - Time Kullanımı.exe.config
+C:\Users\Reena\Desktop\Form\Ders 24 - Time Kullanımı\Ders 24 - Time Kullanımı\bin\Debug\Ders 24 - Time Kullanımı.exe
+C:\Users\Reena\Desktop\Form\Ders 24 - Time Kullanımı\Ders 24 - Time Kullanımı\bin\Debug\Ders 24 - Time Kullanımı.pdb
+C:\Users\Reena\Desktop\Form\Ders 24 - Time Kullanımı\Ders 24 - Time Kullanımı\obj\Debug\Ders_24___Time_Kullanımı.Form1.resources
+C:\Users\Reena\Desktop\Form\Ders 24 - Time Kullanımı\Ders 24 - Time Kullanımı\obj\Debug\Ders_24___Time_Kullanımı.Properties.Resources.resources
+C:\Users\Reena\Desktop\Form\Ders 24 - Time Kullanımı\Ders 24 - Time Kullanımı\obj\Debug\Ders 24 - Time Kullanımı.csproj.GenerateResource.cache
+C:\Users\Reena\Desktop\Form\Ders 24 - Time Kullanımı\Ders 24 - Time Kullanımı\obj\Debug\Ders 24 - Time Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\Form\Ders 24 - Time Kullanımı\Ders 24 - Time Kullanımı\obj\Debug\Ders 24 - Time Kullanımı.exe
+C:\Users\Reena\Desktop\Form\Ders 24 - Time Kullanımı\Ders 24 - Time Kullanımı\obj\Debug\Ders 24 - Time Kullanımı.pdb

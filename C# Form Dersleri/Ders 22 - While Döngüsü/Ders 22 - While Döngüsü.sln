@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders 22 - While Döngüsü", "Ders 22 - While Döngüsü\Ders 22 - While Döngüsü.csproj", "{30318643-3E01-4479-B1DA-5EACB93B8F23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30318643-3E01-4479-B1DA-5EACB93B8F23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30318643-3E01-4479-B1DA-5EACB93B8F23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30318643-3E01-4479-B1DA-5EACB93B8F23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30318643-3E01-4479-B1DA-5EACB93B8F23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCF4CD77-4145-48CC-BCD9-29D7A5CA9912}
+	EndGlobalSection
+EndGlobal

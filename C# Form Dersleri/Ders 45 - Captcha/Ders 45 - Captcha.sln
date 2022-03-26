@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders 45 - Captcha", "Ders 45 - Captcha\Ders 45 - Captcha.csproj", "{9C11D71F-5E08-4F70-8559-82909F3B0409}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C11D71F-5E08-4F70-8559-82909F3B0409}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C11D71F-5E08-4F70-8559-82909F3B0409}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C11D71F-5E08-4F70-8559-82909F3B0409}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C11D71F-5E08-4F70-8559-82909F3B0409}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6863A68-1ABD-402B-ACB9-93123294183B}
+	EndGlobalSection
+EndGlobal

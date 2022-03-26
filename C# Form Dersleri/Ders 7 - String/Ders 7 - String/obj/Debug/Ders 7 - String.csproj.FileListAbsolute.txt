@@ -1,0 +1,10 @@
+C:\Users\Reena\Desktop\Form\Ders 7 - String\Ders 7 - String\bin\Debug\Ders 7 - String.exe.config
+C:\Users\Reena\Desktop\Form\Ders 7 - String\Ders 7 - String\bin\Debug\Ders 7 - String.exe
+C:\Users\Reena\Desktop\Form\Ders 7 - String\Ders 7 - String\bin\Debug\Ders 7 - String.pdb
+C:\Users\Reena\Desktop\Form\Ders 7 - String\Ders 7 - String\obj\Debug\Ders 7 - String.csprojAssemblyReference.cache
+C:\Users\Reena\Desktop\Form\Ders 7 - String\Ders 7 - String\obj\Debug\Ders_7___String.Form1.resources
+C:\Users\Reena\Desktop\Form\Ders 7 - String\Ders 7 - String\obj\Debug\Ders_7___String.Properties.Resources.resources
+C:\Users\Reena\Desktop\Form\Ders 7 - String\Ders 7 - String\obj\Debug\Ders 7 - String.csproj.GenerateResource.cache
+C:\Users\Reena\Desktop\Form\Ders 7 - String\Ders 7 - String\obj\Debug\Ders 7 - String.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\Form\Ders 7 - String\Ders 7 - String\obj\Debug\Ders 7 - String.exe
+C:\Users\Reena\Desktop\Form\Ders 7 - String\Ders 7 - String\obj\Debug\Ders 7 - String.pdb

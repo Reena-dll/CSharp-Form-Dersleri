@@ -1,0 +1,20 @@
+C:\Users\Reena\Desktop\Form\Ders 1 - Hello World\Ders 1 - Hello World\bin\Debug\Ders 1 - Hello World.exe.config
+C:\Users\Reena\Desktop\Form\Ders 1 - Hello World\Ders 1 - Hello World\bin\Debug\Ders 1 - Hello World.exe
+C:\Users\Reena\Desktop\Form\Ders 1 - Hello World\Ders 1 - Hello World\bin\Debug\Ders 1 - Hello World.pdb
+C:\Users\Reena\Desktop\Form\Ders 1 - Hello World\Ders 1 - Hello World\obj\Debug\Ders 1 - Hello World.csprojAssemblyReference.cache
+C:\Users\Reena\Desktop\Form\Ders 1 - Hello World\Ders 1 - Hello World\obj\Debug\Ders_1___Hello_World.Form1.resources
+C:\Users\Reena\Desktop\Form\Ders 1 - Hello World\Ders 1 - Hello World\obj\Debug\Ders_1___Hello_World.Properties.Resources.resources
+C:\Users\Reena\Desktop\Form\Ders 1 - Hello World\Ders 1 - Hello World\obj\Debug\Ders 1 - Hello World.csproj.GenerateResource.cache
+C:\Users\Reena\Desktop\Form\Ders 1 - Hello World\Ders 1 - Hello World\obj\Debug\Ders 1 - Hello World.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\Form\Ders 1 - Hello World\Ders 1 - Hello World\obj\Debug\Ders 1 - Hello World.exe
+C:\Users\Reena\Desktop\Form\Ders 1 - Hello World\Ders 1 - Hello World\obj\Debug\Ders 1 - Hello World.pdb
+D:\DERS\Görsel Programlama\C#\C# Form Dersleri\Ders 1 - Hello World\Ders 1 - Hello World\bin\Debug\Ders 1 - Hello World.exe.config
+D:\DERS\Görsel Programlama\C#\C# Form Dersleri\Ders 1 - Hello World\Ders 1 - Hello World\bin\Debug\Ders 1 - Hello World.exe
+D:\DERS\Görsel Programlama\C#\C# Form Dersleri\Ders 1 - Hello World\Ders 1 - Hello World\bin\Debug\Ders 1 - Hello World.pdb
+D:\DERS\Görsel Programlama\C#\C# Form Dersleri\Ders 1 - Hello World\Ders 1 - Hello World\obj\Debug\Ders 1 - Hello World.csprojAssemblyReference.cache
+D:\DERS\Görsel Programlama\C#\C# Form Dersleri\Ders 1 - Hello World\Ders 1 - Hello World\obj\Debug\Ders_1___Hello_World.Form1.resources
+D:\DERS\Görsel Programlama\C#\C# Form Dersleri\Ders 1 - Hello World\Ders 1 - Hello World\obj\Debug\Ders_1___Hello_World.Properties.Resources.resources
+D:\DERS\Görsel Programlama\C#\C# Form Dersleri\Ders 1 - Hello World\Ders 1 - Hello World\obj\Debug\Ders 1 - Hello World.csproj.GenerateResource.cache
+D:\DERS\Görsel Programlama\C#\C# Form Dersleri\Ders 1 - Hello World\Ders 1 - Hello World\obj\Debug\Ders 1 - Hello World.csproj.CoreCompileInputs.cache
+D:\DERS\Görsel Programlama\C#\C# Form Dersleri\Ders 1 - Hello World\Ders 1 - Hello World\obj\Debug\Ders 1 - Hello World.exe
+D:\DERS\Görsel Programlama\C#\C# Form Dersleri\Ders 1 - Hello World\Ders 1 - Hello World\obj\Debug\Ders 1 - Hello World.pdb

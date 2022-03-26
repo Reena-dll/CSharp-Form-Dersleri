@@ -1,0 +1,10 @@
+C:\Users\Reena\Desktop\Form\Ders 10 - İnt Değişkenler Örnek\Ders 10 - İnt Değişkenler Örnek\bin\Debug\Ders 10 - İnt Değişkenler Örnek.exe.config
+C:\Users\Reena\Desktop\Form\Ders 10 - İnt Değişkenler Örnek\Ders 10 - İnt Değişkenler Örnek\bin\Debug\Ders 10 - İnt Değişkenler Örnek.exe
+C:\Users\Reena\Desktop\Form\Ders 10 - İnt Değişkenler Örnek\Ders 10 - İnt Değişkenler Örnek\bin\Debug\Ders 10 - İnt Değişkenler Örnek.pdb
+C:\Users\Reena\Desktop\Form\Ders 10 - İnt Değişkenler Örnek\Ders 10 - İnt Değişkenler Örnek\obj\Debug\Ders 10 - İnt Değişkenler Örnek.csprojAssemblyReference.cache
+C:\Users\Reena\Desktop\Form\Ders 10 - İnt Değişkenler Örnek\Ders 10 - İnt Değişkenler Örnek\obj\Debug\Ders_10___İnt_Değişkenler_Örnek.Form1.resources
+C:\Users\Reena\Desktop\Form\Ders 10 - İnt Değişkenler Örnek\Ders 10 - İnt Değişkenler Örnek\obj\Debug\Ders_10___İnt_Değişkenler_Örnek.Properties.Resources.resources
+C:\Users\Reena\Desktop\Form\Ders 10 - İnt Değişkenler Örnek\Ders 10 - İnt Değişkenler Örnek\obj\Debug\Ders 10 - İnt Değişkenler Örnek.csproj.GenerateResource.cache
+C:\Users\Reena\Desktop\Form\Ders 10 - İnt Değişkenler Örnek\Ders 10 - İnt Değişkenler Örnek\obj\Debug\Ders 10 - İnt Değişkenler Örnek.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\Form\Ders 10 - İnt Değişkenler Örnek\Ders 10 - İnt Değişkenler Örnek\obj\Debug\Ders 10 - İnt Değişkenler Örnek.exe
+C:\Users\Reena\Desktop\Form\Ders 10 - İnt Değişkenler Örnek\Ders 10 - İnt Değişkenler Örnek\obj\Debug\Ders 10 - İnt Değişkenler Örnek.pdb

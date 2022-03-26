@@ -1,0 +1,9 @@
+C:\Users\Reena\Desktop\Form\Ders 12 - ÖğrenciHesapNotlarıHesaplama\Ders 12 - ÖğrenciHesapNotlarıHesaplama\bin\Debug\Ders 12 - ÖğrenciHesapNotlarıHesaplama.exe.config
+C:\Users\Reena\Desktop\Form\Ders 12 - ÖğrenciHesapNotlarıHesaplama\Ders 12 - ÖğrenciHesapNotlarıHesaplama\bin\Debug\Ders 12 - ÖğrenciHesapNotlarıHesaplama.exe
+C:\Users\Reena\Desktop\Form\Ders 12 - ÖğrenciHesapNotlarıHesaplama\Ders 12 - ÖğrenciHesapNotlarıHesaplama\bin\Debug\Ders 12 - ÖğrenciHesapNotlarıHesaplama.pdb
+C:\Users\Reena\Desktop\Form\Ders 12 - ÖğrenciHesapNotlarıHesaplama\Ders 12 - ÖğrenciHesapNotlarıHesaplama\obj\Debug\Ders_12___ÖğrenciHesapNotlarıHesaplama.Form1.resources
+C:\Users\Reena\Desktop\Form\Ders 12 - ÖğrenciHesapNotlarıHesaplama\Ders 12 - ÖğrenciHesapNotlarıHesaplama\obj\Debug\Ders_12___ÖğrenciHesapNotlarıHesaplama.Properties.Resources.resources
+C:\Users\Reena\Desktop\Form\Ders 12 - ÖğrenciHesapNotlarıHesaplama\Ders 12 - ÖğrenciHesapNotlarıHesaplama\obj\Debug\Ders 12 - ÖğrenciHesapNotlarıHesaplama.csproj.GenerateResource.cache
+C:\Users\Reena\Desktop\Form\Ders 12 - ÖğrenciHesapNotlarıHesaplama\Ders 12 - ÖğrenciHesapNotlarıHesaplama\obj\Debug\Ders 12 - ÖğrenciHesapNotlarıHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\Form\Ders 12 - ÖğrenciHesapNotlarıHesaplama\Ders 12 - ÖğrenciHesapNotlarıHesaplama\obj\Debug\Ders 12 - ÖğrenciHesapNotlarıHesaplama.exe
+C:\Users\Reena\Desktop\Form\Ders 12 - ÖğrenciHesapNotlarıHesaplama\Ders 12 - ÖğrenciHesapNotlarıHesaplama\obj\Debug\Ders 12 - ÖğrenciHesapNotlarıHesaplama.pdb

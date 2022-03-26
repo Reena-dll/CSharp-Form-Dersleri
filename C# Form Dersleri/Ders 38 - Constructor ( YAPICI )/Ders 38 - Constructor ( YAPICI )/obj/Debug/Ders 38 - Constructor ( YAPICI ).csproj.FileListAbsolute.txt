@@ -1,0 +1,7 @@
+C:\Users\Reena\Desktop\Form\Ders 38 - Constructor ( YAPICI )\Ders 38 - Constructor ( YAPICI )\bin\Debug\Ders 38 - Constructor ( YAPICI ).exe.config
+C:\Users\Reena\Desktop\Form\Ders 38 - Constructor ( YAPICI )\Ders 38 - Constructor ( YAPICI )\bin\Debug\Ders 38 - Constructor ( YAPICI ).exe
+C:\Users\Reena\Desktop\Form\Ders 38 - Constructor ( YAPICI )\Ders 38 - Constructor ( YAPICI )\bin\Debug\Ders 38 - Constructor ( YAPICI ).pdb
+C:\Users\Reena\Desktop\Form\Ders 38 - Constructor ( YAPICI )\Ders 38 - Constructor ( YAPICI )\obj\Debug\Ders 38 - Constructor ( YAPICI ).csprojAssemblyReference.cache
+C:\Users\Reena\Desktop\Form\Ders 38 - Constructor ( YAPICI )\Ders 38 - Constructor ( YAPICI )\obj\Debug\Ders 38 - Constructor ( YAPICI ).csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\Form\Ders 38 - Constructor ( YAPICI )\Ders 38 - Constructor ( YAPICI )\obj\Debug\Ders 38 - Constructor ( YAPICI ).exe
+C:\Users\Reena\Desktop\Form\Ders 38 - Constructor ( YAPICI )\Ders 38 - Constructor ( YAPICI )\obj\Debug\Ders 38 - Constructor ( YAPICI ).pdb

@@ -1,0 +1,10 @@
+C:\Users\Reena\source\repos\Ders 53 - Metin Belgesi\Ders 53 - Metin Belgesi\bin\Debug\Ders 53 - Metin Belgesi.exe.config
+C:\Users\Reena\source\repos\Ders 53 - Metin Belgesi\Ders 53 - Metin Belgesi\bin\Debug\Ders 53 - Metin Belgesi.exe
+C:\Users\Reena\source\repos\Ders 53 - Metin Belgesi\Ders 53 - Metin Belgesi\bin\Debug\Ders 53 - Metin Belgesi.pdb
+C:\Users\Reena\source\repos\Ders 53 - Metin Belgesi\Ders 53 - Metin Belgesi\obj\Debug\Ders 53 - Metin Belgesi.csprojAssemblyReference.cache
+C:\Users\Reena\source\repos\Ders 53 - Metin Belgesi\Ders 53 - Metin Belgesi\obj\Debug\Ders_53___Metin_Belgesi.Form1.resources
+C:\Users\Reena\source\repos\Ders 53 - Metin Belgesi\Ders 53 - Metin Belgesi\obj\Debug\Ders_53___Metin_Belgesi.Properties.Resources.resources
+C:\Users\Reena\source\repos\Ders 53 - Metin Belgesi\Ders 53 - Metin Belgesi\obj\Debug\Ders 53 - Metin Belgesi.csproj.GenerateResource.cache
+C:\Users\Reena\source\repos\Ders 53 - Metin Belgesi\Ders 53 - Metin Belgesi\obj\Debug\Ders 53 - Metin Belgesi.csproj.CoreCompileInputs.cache
+C:\Users\Reena\source\repos\Ders 53 - Metin Belgesi\Ders 53 - Metin Belgesi\obj\Debug\Ders 53 - Metin Belgesi.exe
+C:\Users\Reena\source\repos\Ders 53 - Metin Belgesi\Ders 53 - Metin Belgesi\obj\Debug\Ders 53 - Metin Belgesi.pdb

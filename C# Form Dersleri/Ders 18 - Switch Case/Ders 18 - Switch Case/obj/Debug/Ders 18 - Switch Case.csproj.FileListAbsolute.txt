@@ -1,0 +1,9 @@
+C:\Users\Reena\Desktop\Form\Ders 18 - Switch Case\Ders 18 - Switch Case\bin\Debug\Ders 18 - Switch Case.exe.config
+C:\Users\Reena\Desktop\Form\Ders 18 - Switch Case\Ders 18 - Switch Case\bin\Debug\Ders 18 - Switch Case.exe
+C:\Users\Reena\Desktop\Form\Ders 18 - Switch Case\Ders 18 - Switch Case\bin\Debug\Ders 18 - Switch Case.pdb
+C:\Users\Reena\Desktop\Form\Ders 18 - Switch Case\Ders 18 - Switch Case\obj\Debug\Ders_18___Switch_Case.Form1.resources
+C:\Users\Reena\Desktop\Form\Ders 18 - Switch Case\Ders 18 - Switch Case\obj\Debug\Ders_18___Switch_Case.Properties.Resources.resources
+C:\Users\Reena\Desktop\Form\Ders 18 - Switch Case\Ders 18 - Switch Case\obj\Debug\Ders 18 - Switch Case.csproj.GenerateResource.cache
+C:\Users\Reena\Desktop\Form\Ders 18 - Switch Case\Ders 18 - Switch Case\obj\Debug\Ders 18 - Switch Case.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\Form\Ders 18 - Switch Case\Ders 18 - Switch Case\obj\Debug\Ders 18 - Switch Case.exe
+C:\Users\Reena\Desktop\Form\Ders 18 - Switch Case\Ders 18 - Switch Case\obj\Debug\Ders 18 - Switch Case.pdb

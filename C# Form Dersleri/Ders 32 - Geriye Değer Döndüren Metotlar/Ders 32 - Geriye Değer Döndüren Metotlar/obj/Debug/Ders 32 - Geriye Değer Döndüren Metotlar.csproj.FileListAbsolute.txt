@@ -1,0 +1,9 @@
+C:\Users\Reena\source\repos\Ders 32 - Geriye Değer Döndüren Metotlar\Ders 32 - Geriye Değer Döndüren Metotlar\bin\Debug\Ders 32 - Geriye Değer Döndüren Metotlar.exe.config
+C:\Users\Reena\source\repos\Ders 32 - Geriye Değer Döndüren Metotlar\Ders 32 - Geriye Değer Döndüren Metotlar\bin\Debug\Ders 32 - Geriye Değer Döndüren Metotlar.exe
+C:\Users\Reena\source\repos\Ders 32 - Geriye Değer Döndüren Metotlar\Ders 32 - Geriye Değer Döndüren Metotlar\bin\Debug\Ders 32 - Geriye Değer Döndüren Metotlar.pdb
+C:\Users\Reena\source\repos\Ders 32 - Geriye Değer Döndüren Metotlar\Ders 32 - Geriye Değer Döndüren Metotlar\obj\Debug\Ders_32___Geriye_Değer_Döndüren_Metotlar.Form1.resources
+C:\Users\Reena\source\repos\Ders 32 - Geriye Değer Döndüren Metotlar\Ders 32 - Geriye Değer Döndüren Metotlar\obj\Debug\Ders_32___Geriye_Değer_Döndüren_Metotlar.Properties.Resources.resources
+C:\Users\Reena\source\repos\Ders 32 - Geriye Değer Döndüren Metotlar\Ders 32 - Geriye Değer Döndüren Metotlar\obj\Debug\Ders 32 - Geriye Değer Döndüren Metotlar.csproj.GenerateResource.cache
+C:\Users\Reena\source\repos\Ders 32 - Geriye Değer Döndüren Metotlar\Ders 32 - Geriye Değer Döndüren Metotlar\obj\Debug\Ders 32 - Geriye Değer Döndüren Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\Reena\source\repos\Ders 32 - Geriye Değer Döndüren Metotlar\Ders 32 - Geriye Değer Döndüren Metotlar\obj\Debug\Ders 32 - Geriye Değer Döndüren Metotlar.exe
+C:\Users\Reena\source\repos\Ders 32 - Geriye Değer Döndüren Metotlar\Ders 32 - Geriye Değer Döndüren Metotlar\obj\Debug\Ders 32 - Geriye Değer Döndüren Metotlar.pdb

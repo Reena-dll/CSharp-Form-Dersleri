@@ -1,0 +1,17 @@
+C:\Users\Reena\Desktop\Form\OOP ile N Katmanlı Mimaride Proje Geliştirme\OOP ile N Katmanlı Mimaride Proje Geliştirme\obj\Debug\OOP ile N Katmanlı Mimaride Proje Geliştirme.csprojAssemblyReference.cache
+C:\Users\Reena\Desktop\Form\OOP ile N Katmanlı Mimaride Proje Geliştirme\OOP ile N Katmanlı Mimaride Proje Geliştirme\obj\Debug\OOP_ile_N_Katmanlı_Mimaride_Proje_Geliştirme.Form1.resources
+C:\Users\Reena\Desktop\Form\OOP ile N Katmanlı Mimaride Proje Geliştirme\OOP ile N Katmanlı Mimaride Proje Geliştirme\obj\Debug\OOP_ile_N_Katmanlı_Mimaride_Proje_Geliştirme.Properties.Resources.resources
+C:\Users\Reena\Desktop\Form\OOP ile N Katmanlı Mimaride Proje Geliştirme\OOP ile N Katmanlı Mimaride Proje Geliştirme\obj\Debug\OOP ile N Katmanlı Mimaride Proje Geliştirme.csproj.GenerateResource.cache
+C:\Users\Reena\Desktop\Form\OOP ile N Katmanlı Mimaride Proje Geliştirme\OOP ile N Katmanlı Mimaride Proje Geliştirme\obj\Debug\OOP ile N Katmanlı Mimaride Proje Geliştirme.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\Form\OOP ile N Katmanlı Mimaride Proje Geliştirme\OOP ile N Katmanlı Mimaride Proje Geliştirme\bin\Debug\OOP ile N Katmanlı Mimaride Proje Geliştirme.exe.config
+C:\Users\Reena\Desktop\Form\OOP ile N Katmanlı Mimaride Proje Geliştirme\OOP ile N Katmanlı Mimaride Proje Geliştirme\bin\Debug\OOP ile N Katmanlı Mimaride Proje Geliştirme.exe
+C:\Users\Reena\Desktop\Form\OOP ile N Katmanlı Mimaride Proje Geliştirme\OOP ile N Katmanlı Mimaride Proje Geliştirme\bin\Debug\OOP ile N Katmanlı Mimaride Proje Geliştirme.pdb
+C:\Users\Reena\Desktop\Form\OOP ile N Katmanlı Mimaride Proje Geliştirme\OOP ile N Katmanlı Mimaride Proje Geliştirme\bin\Debug\DataAccessLayer.dll
+C:\Users\Reena\Desktop\Form\OOP ile N Katmanlı Mimaride Proje Geliştirme\OOP ile N Katmanlı Mimaride Proje Geliştirme\bin\Debug\EntityLayer.dll
+C:\Users\Reena\Desktop\Form\OOP ile N Katmanlı Mimaride Proje Geliştirme\OOP ile N Katmanlı Mimaride Proje Geliştirme\bin\Debug\LogicLayer.dll
+C:\Users\Reena\Desktop\Form\OOP ile N Katmanlı Mimaride Proje Geliştirme\OOP ile N Katmanlı Mimaride Proje Geliştirme\bin\Debug\DataAccessLayer.pdb
+C:\Users\Reena\Desktop\Form\OOP ile N Katmanlı Mimaride Proje Geliştirme\OOP ile N Katmanlı Mimaride Proje Geliştirme\bin\Debug\EntityLayer.pdb
+C:\Users\Reena\Desktop\Form\OOP ile N Katmanlı Mimaride Proje Geliştirme\OOP ile N Katmanlı Mimaride Proje Geliştirme\bin\Debug\LogicLayer.pdb
+C:\Users\Reena\Desktop\Form\OOP ile N Katmanlı Mimaride Proje Geliştirme\OOP ile N Katmanlı Mimaride Proje Geliştirme\obj\Debug\OOP ile N Katmanlı Mimaride Proje Geliştirme.csproj.CopyComplete
+C:\Users\Reena\Desktop\Form\OOP ile N Katmanlı Mimaride Proje Geliştirme\OOP ile N Katmanlı Mimaride Proje Geliştirme\obj\Debug\OOP ile N Katmanlı Mimaride Proje Geliştirme.exe
+C:\Users\Reena\Desktop\Form\OOP ile N Katmanlı Mimaride Proje Geliştirme\OOP ile N Katmanlı Mimaride Proje Geliştirme\obj\Debug\OOP ile N Katmanlı Mimaride Proje Geliştirme.pdb

@@ -1,0 +1,10 @@
+C:\Users\Reena\Desktop\Form\Ders 47 - Formlar Arası Veri Taşıma\Ders 47 - Formlar Arası Veri Taşıma\bin\Debug\Ders 47 - Formlar Arası Veri Taşıma.exe.config
+C:\Users\Reena\Desktop\Form\Ders 47 - Formlar Arası Veri Taşıma\Ders 47 - Formlar Arası Veri Taşıma\bin\Debug\Ders 47 - Formlar Arası Veri Taşıma.exe
+C:\Users\Reena\Desktop\Form\Ders 47 - Formlar Arası Veri Taşıma\Ders 47 - Formlar Arası Veri Taşıma\bin\Debug\Ders 47 - Formlar Arası Veri Taşıma.pdb
+C:\Users\Reena\Desktop\Form\Ders 47 - Formlar Arası Veri Taşıma\Ders 47 - Formlar Arası Veri Taşıma\obj\Debug\Ders_47___Formlar_Arası_Veri_Taşıma.Form1.resources
+C:\Users\Reena\Desktop\Form\Ders 47 - Formlar Arası Veri Taşıma\Ders 47 - Formlar Arası Veri Taşıma\obj\Debug\Ders_47___Formlar_Arası_Veri_Taşıma.Form2.resources
+C:\Users\Reena\Desktop\Form\Ders 47 - Formlar Arası Veri Taşıma\Ders 47 - Formlar Arası Veri Taşıma\obj\Debug\Ders_47___Formlar_Arası_Veri_Taşıma.Properties.Resources.resources
+C:\Users\Reena\Desktop\Form\Ders 47 - Formlar Arası Veri Taşıma\Ders 47 - Formlar Arası Veri Taşıma\obj\Debug\Ders 47 - Formlar Arası Veri Taşıma.csproj.GenerateResource.cache
+C:\Users\Reena\Desktop\Form\Ders 47 - Formlar Arası Veri Taşıma\Ders 47 - Formlar Arası Veri Taşıma\obj\Debug\Ders 47 - Formlar Arası Veri Taşıma.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\Form\Ders 47 - Formlar Arası Veri Taşıma\Ders 47 - Formlar Arası Veri Taşıma\obj\Debug\Ders 47 - Formlar Arası Veri Taşıma.exe
+C:\Users\Reena\Desktop\Form\Ders 47 - Formlar Arası Veri Taşıma\Ders 47 - Formlar Arası Veri Taşıma\obj\Debug\Ders 47 - Formlar Arası Veri Taşıma.pdb

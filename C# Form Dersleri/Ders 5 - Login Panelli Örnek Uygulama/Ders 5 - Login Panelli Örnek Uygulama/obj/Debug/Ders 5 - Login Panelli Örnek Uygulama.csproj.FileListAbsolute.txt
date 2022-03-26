@@ -1,0 +1,10 @@
+C:\Users\Reena\Desktop\Form\Ders 5 - Login Panelli Örnek Uygulama\Ders 5 - Login Panelli Örnek Uygulama\bin\Debug\Ders 5 - Login Panelli Örnek Uygulama.exe.config
+C:\Users\Reena\Desktop\Form\Ders 5 - Login Panelli Örnek Uygulama\Ders 5 - Login Panelli Örnek Uygulama\bin\Debug\Ders 5 - Login Panelli Örnek Uygulama.exe
+C:\Users\Reena\Desktop\Form\Ders 5 - Login Panelli Örnek Uygulama\Ders 5 - Login Panelli Örnek Uygulama\bin\Debug\Ders 5 - Login Panelli Örnek Uygulama.pdb
+C:\Users\Reena\Desktop\Form\Ders 5 - Login Panelli Örnek Uygulama\Ders 5 - Login Panelli Örnek Uygulama\obj\Debug\Ders 5 - Login Panelli Örnek Uygulama.csprojAssemblyReference.cache
+C:\Users\Reena\Desktop\Form\Ders 5 - Login Panelli Örnek Uygulama\Ders 5 - Login Panelli Örnek Uygulama\obj\Debug\Ders_5___Login_Panelli_Örnek_Uygulama.Form1.resources
+C:\Users\Reena\Desktop\Form\Ders 5 - Login Panelli Örnek Uygulama\Ders 5 - Login Panelli Örnek Uygulama\obj\Debug\Ders_5___Login_Panelli_Örnek_Uygulama.Properties.Resources.resources
+C:\Users\Reena\Desktop\Form\Ders 5 - Login Panelli Örnek Uygulama\Ders 5 - Login Panelli Örnek Uygulama\obj\Debug\Ders 5 - Login Panelli Örnek Uygulama.csproj.GenerateResource.cache
+C:\Users\Reena\Desktop\Form\Ders 5 - Login Panelli Örnek Uygulama\Ders 5 - Login Panelli Örnek Uygulama\obj\Debug\Ders 5 - Login Panelli Örnek Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\Form\Ders 5 - Login Panelli Örnek Uygulama\Ders 5 - Login Panelli Örnek Uygulama\obj\Debug\Ders 5 - Login Panelli Örnek Uygulama.exe
+C:\Users\Reena\Desktop\Form\Ders 5 - Login Panelli Örnek Uygulama\Ders 5 - Login Panelli Örnek Uygulama\obj\Debug\Ders 5 - Login Panelli Örnek Uygulama.pdb

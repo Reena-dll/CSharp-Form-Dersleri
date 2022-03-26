@@ -1,0 +1,10 @@
+C:\Users\Reena\Desktop\Form\Ders 30 - Foreach Döngüsü\Ders 30 - Foreach Döngüsü\bin\Debug\Ders 30 - Foreach Döngüsü.exe.config
+C:\Users\Reena\Desktop\Form\Ders 30 - Foreach Döngüsü\Ders 30 - Foreach Döngüsü\bin\Debug\Ders 30 - Foreach Döngüsü.exe
+C:\Users\Reena\Desktop\Form\Ders 30 - Foreach Döngüsü\Ders 30 - Foreach Döngüsü\bin\Debug\Ders 30 - Foreach Döngüsü.pdb
+C:\Users\Reena\Desktop\Form\Ders 30 - Foreach Döngüsü\Ders 30 - Foreach Döngüsü\obj\Debug\Ders 30 - Foreach Döngüsü.csprojAssemblyReference.cache
+C:\Users\Reena\Desktop\Form\Ders 30 - Foreach Döngüsü\Ders 30 - Foreach Döngüsü\obj\Debug\Ders_30___Foreach_Döngüsü.Form1.resources
+C:\Users\Reena\Desktop\Form\Ders 30 - Foreach Döngüsü\Ders 30 - Foreach Döngüsü\obj\Debug\Ders_30___Foreach_Döngüsü.Properties.Resources.resources
+C:\Users\Reena\Desktop\Form\Ders 30 - Foreach Döngüsü\Ders 30 - Foreach Döngüsü\obj\Debug\Ders 30 - Foreach Döngüsü.csproj.GenerateResource.cache
+C:\Users\Reena\Desktop\Form\Ders 30 - Foreach Döngüsü\Ders 30 - Foreach Döngüsü\obj\Debug\Ders 30 - Foreach Döngüsü.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\Form\Ders 30 - Foreach Döngüsü\Ders 30 - Foreach Döngüsü\obj\Debug\Ders 30 - Foreach Döngüsü.exe
+C:\Users\Reena\Desktop\Form\Ders 30 - Foreach Döngüsü\Ders 30 - Foreach Döngüsü\obj\Debug\Ders 30 - Foreach Döngüsü.pdb

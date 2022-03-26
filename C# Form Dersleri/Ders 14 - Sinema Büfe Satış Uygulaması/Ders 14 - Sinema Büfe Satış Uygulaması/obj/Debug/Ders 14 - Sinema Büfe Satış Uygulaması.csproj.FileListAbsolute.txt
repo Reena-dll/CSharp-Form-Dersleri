@@ -1,0 +1,9 @@
+C:\Users\Reena\Desktop\Form\Ders 14 - Sinema Büfe Satış Uygulaması\Ders 14 - Sinema Büfe Satış Uygulaması\bin\Debug\Ders 14 - Sinema Büfe Satış Uygulaması.exe.config
+C:\Users\Reena\Desktop\Form\Ders 14 - Sinema Büfe Satış Uygulaması\Ders 14 - Sinema Büfe Satış Uygulaması\bin\Debug\Ders 14 - Sinema Büfe Satış Uygulaması.exe
+C:\Users\Reena\Desktop\Form\Ders 14 - Sinema Büfe Satış Uygulaması\Ders 14 - Sinema Büfe Satış Uygulaması\bin\Debug\Ders 14 - Sinema Büfe Satış Uygulaması.pdb
+C:\Users\Reena\Desktop\Form\Ders 14 - Sinema Büfe Satış Uygulaması\Ders 14 - Sinema Büfe Satış Uygulaması\obj\Debug\Ders_14___Sinema_Büfe_Satış_Uygulaması.Form1.resources
+C:\Users\Reena\Desktop\Form\Ders 14 - Sinema Büfe Satış Uygulaması\Ders 14 - Sinema Büfe Satış Uygulaması\obj\Debug\Ders_14___Sinema_Büfe_Satış_Uygulaması.Properties.Resources.resources
+C:\Users\Reena\Desktop\Form\Ders 14 - Sinema Büfe Satış Uygulaması\Ders 14 - Sinema Büfe Satış Uygulaması\obj\Debug\Ders 14 - Sinema Büfe Satış Uygulaması.csproj.GenerateResource.cache
+C:\Users\Reena\Desktop\Form\Ders 14 - Sinema Büfe Satış Uygulaması\Ders 14 - Sinema Büfe Satış Uygulaması\obj\Debug\Ders 14 - Sinema Büfe Satış Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\Form\Ders 14 - Sinema Büfe Satış Uygulaması\Ders 14 - Sinema Büfe Satış Uygulaması\obj\Debug\Ders 14 - Sinema Büfe Satış Uygulaması.exe
+C:\Users\Reena\Desktop\Form\Ders 14 - Sinema Büfe Satış Uygulaması\Ders 14 - Sinema Büfe Satış Uygulaması\obj\Debug\Ders 14 - Sinema Büfe Satış Uygulaması.pdb

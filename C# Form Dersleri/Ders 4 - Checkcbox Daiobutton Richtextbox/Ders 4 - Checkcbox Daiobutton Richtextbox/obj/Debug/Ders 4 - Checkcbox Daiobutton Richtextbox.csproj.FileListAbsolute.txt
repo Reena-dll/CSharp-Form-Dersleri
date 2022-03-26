@@ -1,0 +1,9 @@
+C:\Users\Reena\Desktop\Form\Ders 4 - Checkcbox Daiobutton Richtextbox\Ders 4 - Checkcbox Daiobutton Richtextbox\bin\Debug\Ders 4 - Checkcbox Daiobutton Richtextbox.exe.config
+C:\Users\Reena\Desktop\Form\Ders 4 - Checkcbox Daiobutton Richtextbox\Ders 4 - Checkcbox Daiobutton Richtextbox\bin\Debug\Ders 4 - Checkcbox Daiobutton Richtextbox.exe
+C:\Users\Reena\Desktop\Form\Ders 4 - Checkcbox Daiobutton Richtextbox\Ders 4 - Checkcbox Daiobutton Richtextbox\bin\Debug\Ders 4 - Checkcbox Daiobutton Richtextbox.pdb
+C:\Users\Reena\Desktop\Form\Ders 4 - Checkcbox Daiobutton Richtextbox\Ders 4 - Checkcbox Daiobutton Richtextbox\obj\Debug\Ders_4___Checkcbox_Daiobutton_Richtextbox.Form1.resources
+C:\Users\Reena\Desktop\Form\Ders 4 - Checkcbox Daiobutton Richtextbox\Ders 4 - Checkcbox Daiobutton Richtextbox\obj\Debug\Ders_4___Checkcbox_Daiobutton_Richtextbox.Properties.Resources.resources
+C:\Users\Reena\Desktop\Form\Ders 4 - Checkcbox Daiobutton Richtextbox\Ders 4 - Checkcbox Daiobutton Richtextbox\obj\Debug\Ders 4 - Checkcbox Daiobutton Richtextbox.csproj.GenerateResource.cache
+C:\Users\Reena\Desktop\Form\Ders 4 - Checkcbox Daiobutton Richtextbox\Ders 4 - Checkcbox Daiobutton Richtextbox\obj\Debug\Ders 4 - Checkcbox Daiobutton Richtextbox.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\Form\Ders 4 - Checkcbox Daiobutton Richtextbox\Ders 4 - Checkcbox Daiobutton Richtextbox\obj\Debug\Ders 4 - Checkcbox Daiobutton Richtextbox.exe
+C:\Users\Reena\Desktop\Form\Ders 4 - Checkcbox Daiobutton Richtextbox\Ders 4 - Checkcbox Daiobutton Richtextbox\obj\Debug\Ders 4 - Checkcbox Daiobutton Richtextbox.pdb

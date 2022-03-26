@@ -1,0 +1,9 @@
+C:\Users\Reena\Desktop\Form\Ders 49 - Enum Yapısı\Ders 49 - Enum Yapısı\bin\Debug\Ders 49 - Enum Yapısı.exe.config
+C:\Users\Reena\Desktop\Form\Ders 49 - Enum Yapısı\Ders 49 - Enum Yapısı\bin\Debug\Ders 49 - Enum Yapısı.exe
+C:\Users\Reena\Desktop\Form\Ders 49 - Enum Yapısı\Ders 49 - Enum Yapısı\bin\Debug\Ders 49 - Enum Yapısı.pdb
+C:\Users\Reena\Desktop\Form\Ders 49 - Enum Yapısı\Ders 49 - Enum Yapısı\obj\Debug\Ders_49___Enum_Yapısı.Form1.resources
+C:\Users\Reena\Desktop\Form\Ders 49 - Enum Yapısı\Ders 49 - Enum Yapısı\obj\Debug\Ders_49___Enum_Yapısı.Properties.Resources.resources
+C:\Users\Reena\Desktop\Form\Ders 49 - Enum Yapısı\Ders 49 - Enum Yapısı\obj\Debug\Ders 49 - Enum Yapısı.csproj.GenerateResource.cache
+C:\Users\Reena\Desktop\Form\Ders 49 - Enum Yapısı\Ders 49 - Enum Yapısı\obj\Debug\Ders 49 - Enum Yapısı.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\Form\Ders 49 - Enum Yapısı\Ders 49 - Enum Yapısı\obj\Debug\Ders 49 - Enum Yapısı.exe
+C:\Users\Reena\Desktop\Form\Ders 49 - Enum Yapısı\Ders 49 - Enum Yapısı\obj\Debug\Ders 49 - Enum Yapısı.pdb

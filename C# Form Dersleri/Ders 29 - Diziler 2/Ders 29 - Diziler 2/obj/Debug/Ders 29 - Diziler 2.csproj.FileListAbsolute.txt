@@ -1,0 +1,9 @@
+C:\Users\Reena\Desktop\Form\Ders 29 - Diziler 2\Ders 29 - Diziler 2\bin\Debug\Ders 29 - Diziler 2.exe.config
+C:\Users\Reena\Desktop\Form\Ders 29 - Diziler 2\Ders 29 - Diziler 2\bin\Debug\Ders 29 - Diziler 2.exe
+C:\Users\Reena\Desktop\Form\Ders 29 - Diziler 2\Ders 29 - Diziler 2\bin\Debug\Ders 29 - Diziler 2.pdb
+C:\Users\Reena\Desktop\Form\Ders 29 - Diziler 2\Ders 29 - Diziler 2\obj\Debug\Ders_29___Diziler_2.Form1.resources
+C:\Users\Reena\Desktop\Form\Ders 29 - Diziler 2\Ders 29 - Diziler 2\obj\Debug\Ders_29___Diziler_2.Properties.Resources.resources
+C:\Users\Reena\Desktop\Form\Ders 29 - Diziler 2\Ders 29 - Diziler 2\obj\Debug\Ders 29 - Diziler 2.csproj.GenerateResource.cache
+C:\Users\Reena\Desktop\Form\Ders 29 - Diziler 2\Ders 29 - Diziler 2\obj\Debug\Ders 29 - Diziler 2.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\Form\Ders 29 - Diziler 2\Ders 29 - Diziler 2\obj\Debug\Ders 29 - Diziler 2.exe
+C:\Users\Reena\Desktop\Form\Ders 29 - Diziler 2\Ders 29 - Diziler 2\obj\Debug\Ders 29 - Diziler 2.pdb

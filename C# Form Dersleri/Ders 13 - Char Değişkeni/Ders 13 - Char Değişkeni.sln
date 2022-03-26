@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders 13 - Char Değişkeni", "Ders 13 - Char Değişkeni\Ders 13 - Char Değişkeni.csproj", "{BAC1D87E-3AAA-4D4F-8CB4-BDB873A4A338}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAC1D87E-3AAA-4D4F-8CB4-BDB873A4A338}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAC1D87E-3AAA-4D4F-8CB4-BDB873A4A338}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAC1D87E-3AAA-4D4F-8CB4-BDB873A4A338}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAC1D87E-3AAA-4D4F-8CB4-BDB873A4A338}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30AFCACC-8A4B-4F2B-B56F-B65B5FCF8E8F}
+	EndGlobalSection
+EndGlobal

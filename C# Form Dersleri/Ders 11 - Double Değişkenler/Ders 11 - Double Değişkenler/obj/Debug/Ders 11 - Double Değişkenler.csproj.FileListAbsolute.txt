@@ -1,0 +1,9 @@
+C:\Users\Reena\Desktop\Form\Ders 11 - Double Değişkenler\Ders 11 - Double Değişkenler\obj\Debug\Ders_11___Double_Değişkenler.Form1.resources
+C:\Users\Reena\Desktop\Form\Ders 11 - Double Değişkenler\Ders 11 - Double Değişkenler\obj\Debug\Ders_11___Double_Değişkenler.Properties.Resources.resources
+C:\Users\Reena\Desktop\Form\Ders 11 - Double Değişkenler\Ders 11 - Double Değişkenler\obj\Debug\Ders 11 - Double Değişkenler.csproj.GenerateResource.cache
+C:\Users\Reena\Desktop\Form\Ders 11 - Double Değişkenler\Ders 11 - Double Değişkenler\obj\Debug\Ders 11 - Double Değişkenler.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\Form\Ders 11 - Double Değişkenler\Ders 11 - Double Değişkenler\bin\Debug\Ders 11 - Double Değişkenler.exe.config
+C:\Users\Reena\Desktop\Form\Ders 11 - Double Değişkenler\Ders 11 - Double Değişkenler\bin\Debug\Ders 11 - Double Değişkenler.exe
+C:\Users\Reena\Desktop\Form\Ders 11 - Double Değişkenler\Ders 11 - Double Değişkenler\bin\Debug\Ders 11 - Double Değişkenler.pdb
+C:\Users\Reena\Desktop\Form\Ders 11 - Double Değişkenler\Ders 11 - Double Değişkenler\obj\Debug\Ders 11 - Double Değişkenler.exe
+C:\Users\Reena\Desktop\Form\Ders 11 - Double Değişkenler\Ders 11 - Double Değişkenler\obj\Debug\Ders 11 - Double Değişkenler.pdb

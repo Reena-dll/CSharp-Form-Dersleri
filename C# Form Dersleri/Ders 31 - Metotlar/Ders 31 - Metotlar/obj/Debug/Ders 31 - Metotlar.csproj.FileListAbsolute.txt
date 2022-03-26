@@ -1,0 +1,10 @@
+C:\Users\Reena\source\repos\Ders 31 - Metotlar\Ders 31 - Metotlar\bin\Debug\Ders 31 - Metotlar.exe.config
+C:\Users\Reena\source\repos\Ders 31 - Metotlar\Ders 31 - Metotlar\bin\Debug\Ders 31 - Metotlar.exe
+C:\Users\Reena\source\repos\Ders 31 - Metotlar\Ders 31 - Metotlar\bin\Debug\Ders 31 - Metotlar.pdb
+C:\Users\Reena\source\repos\Ders 31 - Metotlar\Ders 31 - Metotlar\obj\Debug\Ders 31 - Metotlar.csprojAssemblyReference.cache
+C:\Users\Reena\source\repos\Ders 31 - Metotlar\Ders 31 - Metotlar\obj\Debug\Ders_31___Metotlar.Form1.resources
+C:\Users\Reena\source\repos\Ders 31 - Metotlar\Ders 31 - Metotlar\obj\Debug\Ders_31___Metotlar.Properties.Resources.resources
+C:\Users\Reena\source\repos\Ders 31 - Metotlar\Ders 31 - Metotlar\obj\Debug\Ders 31 - Metotlar.csproj.GenerateResource.cache
+C:\Users\Reena\source\repos\Ders 31 - Metotlar\Ders 31 - Metotlar\obj\Debug\Ders 31 - Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\Reena\source\repos\Ders 31 - Metotlar\Ders 31 - Metotlar\obj\Debug\Ders 31 - Metotlar.exe
+C:\Users\Reena\source\repos\Ders 31 - Metotlar\Ders 31 - Metotlar\obj\Debug\Ders 31 - Metotlar.pdb

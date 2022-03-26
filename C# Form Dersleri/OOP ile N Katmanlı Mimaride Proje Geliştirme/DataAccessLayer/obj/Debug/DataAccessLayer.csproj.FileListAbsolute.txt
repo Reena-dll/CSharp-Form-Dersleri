@@ -1,0 +1,9 @@
+C:\Users\Reena\Desktop\Form\OOP ile N Katmanlı Mimaride Proje Geliştirme\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Reena\Desktop\Form\OOP ile N Katmanlı Mimaride Proje Geliştirme\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Reena\Desktop\Form\OOP ile N Katmanlı Mimaride Proje Geliştirme\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\Reena\Desktop\Form\OOP ile N Katmanlı Mimaride Proje Geliştirme\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Reena\Desktop\Form\OOP ile N Katmanlı Mimaride Proje Geliştirme\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Reena\Desktop\Form\OOP ile N Katmanlı Mimaride Proje Geliştirme\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\Form\OOP ile N Katmanlı Mimaride Proje Geliştirme\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\Reena\Desktop\Form\OOP ile N Katmanlı Mimaride Proje Geliştirme\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Reena\Desktop\Form\OOP ile N Katmanlı Mimaride Proje Geliştirme\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

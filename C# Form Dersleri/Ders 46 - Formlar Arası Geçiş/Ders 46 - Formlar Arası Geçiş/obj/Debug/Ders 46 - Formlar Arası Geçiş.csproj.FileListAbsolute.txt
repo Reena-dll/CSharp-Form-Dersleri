@@ -1,0 +1,10 @@
+C:\Users\Reena\Desktop\Form\Ders 46 - Formlar Arası Geçiş\Ders 46 - Formlar Arası Geçiş\bin\Debug\Ders 46 - Formlar Arası Geçiş.exe.config
+C:\Users\Reena\Desktop\Form\Ders 46 - Formlar Arası Geçiş\Ders 46 - Formlar Arası Geçiş\bin\Debug\Ders 46 - Formlar Arası Geçiş.exe
+C:\Users\Reena\Desktop\Form\Ders 46 - Formlar Arası Geçiş\Ders 46 - Formlar Arası Geçiş\bin\Debug\Ders 46 - Formlar Arası Geçiş.pdb
+C:\Users\Reena\Desktop\Form\Ders 46 - Formlar Arası Geçiş\Ders 46 - Formlar Arası Geçiş\obj\Debug\Ders_46___Formlar_Arası_Geçiş.Form1.resources
+C:\Users\Reena\Desktop\Form\Ders 46 - Formlar Arası Geçiş\Ders 46 - Formlar Arası Geçiş\obj\Debug\Ders_46___Formlar_Arası_Geçiş.Form2.resources
+C:\Users\Reena\Desktop\Form\Ders 46 - Formlar Arası Geçiş\Ders 46 - Formlar Arası Geçiş\obj\Debug\Ders_46___Formlar_Arası_Geçiş.Properties.Resources.resources
+C:\Users\Reena\Desktop\Form\Ders 46 - Formlar Arası Geçiş\Ders 46 - Formlar Arası Geçiş\obj\Debug\Ders 46 - Formlar Arası Geçiş.csproj.GenerateResource.cache
+C:\Users\Reena\Desktop\Form\Ders 46 - Formlar Arası Geçiş\Ders 46 - Formlar Arası Geçiş\obj\Debug\Ders 46 - Formlar Arası Geçiş.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\Form\Ders 46 - Formlar Arası Geçiş\Ders 46 - Formlar Arası Geçiş\obj\Debug\Ders 46 - Formlar Arası Geçiş.exe
+C:\Users\Reena\Desktop\Form\Ders 46 - Formlar Arası Geçiş\Ders 46 - Formlar Arası Geçiş\obj\Debug\Ders 46 - Formlar Arası Geçiş.pdb

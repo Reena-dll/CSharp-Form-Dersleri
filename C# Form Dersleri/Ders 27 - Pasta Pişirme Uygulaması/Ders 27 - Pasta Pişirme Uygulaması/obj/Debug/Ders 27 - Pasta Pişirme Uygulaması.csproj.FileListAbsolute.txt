@@ -1,0 +1,10 @@
+C:\Users\Reena\Desktop\Form\Ders 27 - Pasta Pişirme Uygulaması\Ders 27 - Pasta Pişirme Uygulaması\bin\Debug\Ders 27 - Pasta Pişirme Uygulaması.exe.config
+C:\Users\Reena\Desktop\Form\Ders 27 - Pasta Pişirme Uygulaması\Ders 27 - Pasta Pişirme Uygulaması\bin\Debug\Ders 27 - Pasta Pişirme Uygulaması.exe
+C:\Users\Reena\Desktop\Form\Ders 27 - Pasta Pişirme Uygulaması\Ders 27 - Pasta Pişirme Uygulaması\bin\Debug\Ders 27 - Pasta Pişirme Uygulaması.pdb
+C:\Users\Reena\Desktop\Form\Ders 27 - Pasta Pişirme Uygulaması\Ders 27 - Pasta Pişirme Uygulaması\obj\Debug\Ders_27___Pasta_Pişirme_Uygulaması.Form1.resources
+C:\Users\Reena\Desktop\Form\Ders 27 - Pasta Pişirme Uygulaması\Ders 27 - Pasta Pişirme Uygulaması\obj\Debug\Ders_27___Pasta_Pişirme_Uygulaması.Properties.Resources.resources
+C:\Users\Reena\Desktop\Form\Ders 27 - Pasta Pişirme Uygulaması\Ders 27 - Pasta Pişirme Uygulaması\obj\Debug\Ders 27 - Pasta Pişirme Uygulaması.csproj.GenerateResource.cache
+C:\Users\Reena\Desktop\Form\Ders 27 - Pasta Pişirme Uygulaması\Ders 27 - Pasta Pişirme Uygulaması\obj\Debug\Ders 27 - Pasta Pişirme Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\Form\Ders 27 - Pasta Pişirme Uygulaması\Ders 27 - Pasta Pişirme Uygulaması\obj\Debug\Ders 27 - Pasta Pişirme Uygulaması.exe
+C:\Users\Reena\Desktop\Form\Ders 27 - Pasta Pişirme Uygulaması\Ders 27 - Pasta Pişirme Uygulaması\obj\Debug\Ders 27 - Pasta Pişirme Uygulaması.pdb
+C:\Users\Reena\Desktop\Form\Ders 27 - Pasta Pişirme Uygulaması\Ders 27 - Pasta Pişirme Uygulaması\obj\Debug\Ders 27 - Pasta Pişirme Uygulaması.csprojAssemblyReference.cache

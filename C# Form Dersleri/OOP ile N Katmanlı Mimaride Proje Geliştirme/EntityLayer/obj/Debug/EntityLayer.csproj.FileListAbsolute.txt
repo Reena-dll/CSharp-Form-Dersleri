@@ -1,0 +1,6 @@
+C:\Users\Reena\Desktop\Form\OOP ile N Katmanlı Mimaride Proje Geliştirme\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\Reena\Desktop\Form\OOP ile N Katmanlı Mimaride Proje Geliştirme\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Reena\Desktop\Form\OOP ile N Katmanlı Mimaride Proje Geliştirme\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+C:\Users\Reena\Desktop\Form\OOP ile N Katmanlı Mimaride Proje Geliştirme\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\Form\OOP ile N Katmanlı Mimaride Proje Geliştirme\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\Reena\Desktop\Form\OOP ile N Katmanlı Mimaride Proje Geliştirme\EntityLayer\obj\Debug\EntityLayer.pdb

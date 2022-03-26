@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders 60 - Entity Framework", "Ders 60 - Entity Framework\Ders 60 - Entity Framework.csproj", "{856B64D3-809E-4DC3-8204-017C0131A15F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{856B64D3-809E-4DC3-8204-017C0131A15F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{856B64D3-809E-4DC3-8204-017C0131A15F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{856B64D3-809E-4DC3-8204-017C0131A15F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{856B64D3-809E-4DC3-8204-017C0131A15F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F34F3D0-3D1C-46E9-BDC0-F72B2BAE8D78}
+	EndGlobalSection
+EndGlobal

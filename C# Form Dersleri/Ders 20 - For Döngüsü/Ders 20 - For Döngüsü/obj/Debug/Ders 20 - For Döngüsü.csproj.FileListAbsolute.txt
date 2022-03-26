@@ -1,0 +1,10 @@
+C:\Users\Reena\Desktop\Form\Ders 20 - For Döngüsü\Ders 20 - For Döngüsü\bin\Debug\Ders 20 - For Döngüsü.exe.config
+C:\Users\Reena\Desktop\Form\Ders 20 - For Döngüsü\Ders 20 - For Döngüsü\bin\Debug\Ders 20 - For Döngüsü.exe
+C:\Users\Reena\Desktop\Form\Ders 20 - For Döngüsü\Ders 20 - For Döngüsü\bin\Debug\Ders 20 - For Döngüsü.pdb
+C:\Users\Reena\Desktop\Form\Ders 20 - For Döngüsü\Ders 20 - For Döngüsü\obj\Debug\Ders 20 - For Döngüsü.csprojAssemblyReference.cache
+C:\Users\Reena\Desktop\Form\Ders 20 - For Döngüsü\Ders 20 - For Döngüsü\obj\Debug\Ders_20___For_Döngüsü.Form1.resources
+C:\Users\Reena\Desktop\Form\Ders 20 - For Döngüsü\Ders 20 - For Döngüsü\obj\Debug\Ders_20___For_Döngüsü.Properties.Resources.resources
+C:\Users\Reena\Desktop\Form\Ders 20 - For Döngüsü\Ders 20 - For Döngüsü\obj\Debug\Ders 20 - For Döngüsü.csproj.GenerateResource.cache
+C:\Users\Reena\Desktop\Form\Ders 20 - For Döngüsü\Ders 20 - For Döngüsü\obj\Debug\Ders 20 - For Döngüsü.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\Form\Ders 20 - For Döngüsü\Ders 20 - For Döngüsü\obj\Debug\Ders 20 - For Döngüsü.exe
+C:\Users\Reena\Desktop\Form\Ders 20 - For Döngüsü\Ders 20 - For Döngüsü\obj\Debug\Ders 20 - For Döngüsü.pdb

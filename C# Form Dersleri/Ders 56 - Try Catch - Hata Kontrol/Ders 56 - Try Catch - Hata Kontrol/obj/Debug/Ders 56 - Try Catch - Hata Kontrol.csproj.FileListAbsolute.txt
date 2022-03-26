@@ -1,0 +1,10 @@
+C:\Users\Reena\source\repos\Ders 56 - Try Catch - Hata Kontrol\Ders 56 - Try Catch - Hata Kontrol\bin\Debug\Ders 56 - Try Catch - Hata Kontrol.exe.config
+C:\Users\Reena\source\repos\Ders 56 - Try Catch - Hata Kontrol\Ders 56 - Try Catch - Hata Kontrol\bin\Debug\Ders 56 - Try Catch - Hata Kontrol.exe
+C:\Users\Reena\source\repos\Ders 56 - Try Catch - Hata Kontrol\Ders 56 - Try Catch - Hata Kontrol\bin\Debug\Ders 56 - Try Catch - Hata Kontrol.pdb
+C:\Users\Reena\source\repos\Ders 56 - Try Catch - Hata Kontrol\Ders 56 - Try Catch - Hata Kontrol\obj\Debug\Ders 56 - Try Catch - Hata Kontrol.csprojAssemblyReference.cache
+C:\Users\Reena\source\repos\Ders 56 - Try Catch - Hata Kontrol\Ders 56 - Try Catch - Hata Kontrol\obj\Debug\Ders_56___Try_Catch___Hata_Kontrol.Form1.resources
+C:\Users\Reena\source\repos\Ders 56 - Try Catch - Hata Kontrol\Ders 56 - Try Catch - Hata Kontrol\obj\Debug\Ders_56___Try_Catch___Hata_Kontrol.Properties.Resources.resources
+C:\Users\Reena\source\repos\Ders 56 - Try Catch - Hata Kontrol\Ders 56 - Try Catch - Hata Kontrol\obj\Debug\Ders 56 - Try Catch - Hata Kontrol.csproj.GenerateResource.cache
+C:\Users\Reena\source\repos\Ders 56 - Try Catch - Hata Kontrol\Ders 56 - Try Catch - Hata Kontrol\obj\Debug\Ders 56 - Try Catch - Hata Kontrol.csproj.CoreCompileInputs.cache
+C:\Users\Reena\source\repos\Ders 56 - Try Catch - Hata Kontrol\Ders 56 - Try Catch - Hata Kontrol\obj\Debug\Ders 56 - Try Catch - Hata Kontrol.exe
+C:\Users\Reena\source\repos\Ders 56 - Try Catch - Hata Kontrol\Ders 56 - Try Catch - Hata Kontrol\obj\Debug\Ders 56 - Try Catch - Hata Kontrol.pdb

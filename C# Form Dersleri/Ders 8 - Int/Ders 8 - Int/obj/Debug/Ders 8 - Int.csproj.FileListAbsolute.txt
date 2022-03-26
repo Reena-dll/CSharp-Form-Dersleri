@@ -1,0 +1,10 @@
+C:\Users\Reena\Desktop\Form\Ders 8 - Int\Ders 8 - Int\obj\Debug\Ders 8 - Int.csprojAssemblyReference.cache
+C:\Users\Reena\Desktop\Form\Ders 8 - Int\Ders 8 - Int\obj\Debug\Ders_8___Int.Form1.resources
+C:\Users\Reena\Desktop\Form\Ders 8 - Int\Ders 8 - Int\obj\Debug\Ders_8___Int.Properties.Resources.resources
+C:\Users\Reena\Desktop\Form\Ders 8 - Int\Ders 8 - Int\obj\Debug\Ders 8 - Int.csproj.GenerateResource.cache
+C:\Users\Reena\Desktop\Form\Ders 8 - Int\Ders 8 - Int\obj\Debug\Ders 8 - Int.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\Form\Ders 8 - Int\Ders 8 - Int\bin\Debug\Ders 8 - Int.exe.config
+C:\Users\Reena\Desktop\Form\Ders 8 - Int\Ders 8 - Int\bin\Debug\Ders 8 - Int.exe
+C:\Users\Reena\Desktop\Form\Ders 8 - Int\Ders 8 - Int\bin\Debug\Ders 8 - Int.pdb
+C:\Users\Reena\Desktop\Form\Ders 8 - Int\Ders 8 - Int\obj\Debug\Ders 8 - Int.exe
+C:\Users\Reena\Desktop\Form\Ders 8 - Int\Ders 8 - Int\obj\Debug\Ders 8 - Int.pdb

@@ -1,0 +1,10 @@
+C:\Users\Reena\Desktop\Form\Ders 15 - İf Else\Ders 15 - İf Else\bin\Debug\Ders 15 - İf Else.exe.config
+C:\Users\Reena\Desktop\Form\Ders 15 - İf Else\Ders 15 - İf Else\bin\Debug\Ders 15 - İf Else.exe
+C:\Users\Reena\Desktop\Form\Ders 15 - İf Else\Ders 15 - İf Else\bin\Debug\Ders 15 - İf Else.pdb
+C:\Users\Reena\Desktop\Form\Ders 15 - İf Else\Ders 15 - İf Else\obj\Debug\Ders 15 - İf Else.csprojAssemblyReference.cache
+C:\Users\Reena\Desktop\Form\Ders 15 - İf Else\Ders 15 - İf Else\obj\Debug\Ders_15___İf_Else.Form1.resources
+C:\Users\Reena\Desktop\Form\Ders 15 - İf Else\Ders 15 - İf Else\obj\Debug\Ders_15___İf_Else.Properties.Resources.resources
+C:\Users\Reena\Desktop\Form\Ders 15 - İf Else\Ders 15 - İf Else\obj\Debug\Ders 15 - İf Else.csproj.GenerateResource.cache
+C:\Users\Reena\Desktop\Form\Ders 15 - İf Else\Ders 15 - İf Else\obj\Debug\Ders 15 - İf Else.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\Form\Ders 15 - İf Else\Ders 15 - İf Else\obj\Debug\Ders 15 - İf Else.exe
+C:\Users\Reena\Desktop\Form\Ders 15 - İf Else\Ders 15 - İf Else\obj\Debug\Ders 15 - İf Else.pdb

@@ -1,0 +1,10 @@
+C:\Users\Reena\Desktop\Form\Ders 43 - Random Komutu\Ders 43 - Random Komutu\bin\Debug\Ders 43 - Random Komutu.exe.config
+C:\Users\Reena\Desktop\Form\Ders 43 - Random Komutu\Ders 43 - Random Komutu\bin\Debug\Ders 43 - Random Komutu.exe
+C:\Users\Reena\Desktop\Form\Ders 43 - Random Komutu\Ders 43 - Random Komutu\bin\Debug\Ders 43 - Random Komutu.pdb
+C:\Users\Reena\Desktop\Form\Ders 43 - Random Komutu\Ders 43 - Random Komutu\obj\Debug\Ders 43 - Random Komutu.csprojAssemblyReference.cache
+C:\Users\Reena\Desktop\Form\Ders 43 - Random Komutu\Ders 43 - Random Komutu\obj\Debug\Ders_43___Random_Komutu.Form1.resources
+C:\Users\Reena\Desktop\Form\Ders 43 - Random Komutu\Ders 43 - Random Komutu\obj\Debug\Ders_43___Random_Komutu.Properties.Resources.resources
+C:\Users\Reena\Desktop\Form\Ders 43 - Random Komutu\Ders 43 - Random Komutu\obj\Debug\Ders 43 - Random Komutu.csproj.GenerateResource.cache
+C:\Users\Reena\Desktop\Form\Ders 43 - Random Komutu\Ders 43 - Random Komutu\obj\Debug\Ders 43 - Random Komutu.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\Form\Ders 43 - Random Komutu\Ders 43 - Random Komutu\obj\Debug\Ders 43 - Random Komutu.exe
+C:\Users\Reena\Desktop\Form\Ders 43 - Random Komutu\Ders 43 - Random Komutu\obj\Debug\Ders 43 - Random Komutu.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders 27 - Pasta Pişirme Uygulaması", "Ders 27 - Pasta Pişirme Uygulaması\Ders 27 - Pasta Pişirme Uygulaması.csproj", "{A94962BD-736E-46B5-8FDF-F17C0454DFEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A94962BD-736E-46B5-8FDF-F17C0454DFEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A94962BD-736E-46B5-8FDF-F17C0454DFEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A94962BD-736E-46B5-8FDF-F17C0454DFEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A94962BD-736E-46B5-8FDF-F17C0454DFEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6985A80E-A6F8-4E45-8679-811EA78C77C9}
+	EndGlobalSection
+EndGlobal
